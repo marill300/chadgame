@@ -848,8 +848,8 @@ const struct SpeciesInfo gSpeciesInfoGen9[] =
 
     [SPECIES_SPIDOPS] =
     {
-        .baseHP        = 60,
-        .baseAttack    = 79,
+        .baseHP        = 80,
+        .baseAttack    = 99,
         .baseDefense   = 92,
         .baseSpeed     = 35,
         .baseSpAttack  = 52,
@@ -1497,7 +1497,7 @@ const struct SpeciesInfo gSpeciesInfoGen9[] =
 
     [SPECIES_DACHSBUN] =
     {
-        .baseHP        = 57,
+        .baseHP        = 77,
         .baseAttack    = 80,
         .baseDefense   = 115,
         .baseSpeed     = 95,
@@ -1691,7 +1691,7 @@ const struct SpeciesInfo gSpeciesInfoGen9[] =
 
     [SPECIES_ARBOLIVA] =
     {
-        .baseHP        = 78,
+        .baseHP        = 93,
         .baseAttack    = 69,
         .baseDefense   = 90,
         .baseSpeed     = 39,
