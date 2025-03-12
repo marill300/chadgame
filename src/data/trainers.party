@@ -4795,7 +4795,7 @@ Pic: Leader Roxanne
 Gender: Female
 Music: Female
 Double Battle: No
-AI: Basic Trainer
+AI: Smart Trainer
 
 Solrock
 Level: 14
@@ -4803,7 +4803,7 @@ Ability: Drought
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Flame Burst
 - Rock Tomb
-- Zen Headbutt
+- Extrasensory
 - Solar Beam
 
 TAUROS_PALDEA_BLAZE

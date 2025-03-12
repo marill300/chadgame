@@ -11866,7 +11866,7 @@ F_TRAINER_FEMALE |
 #line 4797
         .doubleBattle = FALSE,
 #line 4798
-        .aiFlags = AI_FLAG_BASIC_TRAINER,
+        .aiFlags = AI_FLAG_SMART_TRAINER,
         .partySize = 4,
         .party = (const struct TrainerMon[])
         {
@@ -11886,7 +11886,7 @@ F_TRAINER_FEMALE |
 #line 4804
                 MOVE_FLAME_BURST,
                 MOVE_ROCK_TOMB,
-                MOVE_ZEN_HEADBUTT,
+                MOVE_EXTRASENSORY,
                 MOVE_SOLAR_BEAM,
             },
             },
