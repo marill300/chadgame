@@ -47,4 +47,3 @@ tools/trainerproc/trainerproc
 *.smolTM
 __pycache__
 *.pory
-*.inc

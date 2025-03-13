@@ -18534,7 +18534,7 @@ F_TRAINER_FEMALE |
 #line 7455
         .trainerName = _("COLIN"),
 #line 7456
-        .trainerClass = TRAINER_CLASS_BIRD_KEEPER,
+        .trainerClass = TRAINER_CLASS_COLIN,
 #line 7457
         .trainerPic = TRAINER_PIC_BIRD_KEEPER,
         .encounterMusic_gender =

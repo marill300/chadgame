@@ -471,6 +471,19 @@
       "trainer_sight_or_berry_tree_id": "0",
       "script": "Route104_EventScript_Rival",
       "flag": "FLAG_HIDE_ROUTE_104_RIVAL"
+    },
+    {
+      "graphics_id": "OBJ_EVENT_GFX_ANABEL",
+      "x": 32,
+      "y": 34,
+      "elevation": 0,
+      "movement_type": "MOVEMENT_TYPE_FACE_UP",
+      "movement_range_x": 0,
+      "movement_range_y": 0,
+      "trainer_type": "TRAINER_TYPE_NONE",
+      "trainer_sight_or_berry_tree_id": "0",
+      "script": "NULL",
+      "flag": "FLAG_MONK_MET"
     }
   ],
   "warp_events": [
@@ -540,6 +553,33 @@
       "var": "VAR_ROUTE104_STATE",
       "var_value": "1",
       "script": "Route104_EventScript_RivalTrigger"
+    },
+    {
+      "type": "trigger",
+      "x": 18,
+      "y": 17,
+      "elevation": 0,
+      "var": "VAR_TEMP_0",
+      "var_value": "0",
+      "script": "NULL"
+    },
+    {
+      "type": "trigger",
+      "x": 10,
+      "y": 28,
+      "elevation": 0,
+      "var": "VAR_MONK_104_ENCOUNTER",
+      "var_value": "0",
+      "script": "Route104_ColinScript0"
+    },
+    {
+      "type": "trigger",
+      "x": 11,
+      "y": 28,
+      "elevation": 0,
+      "var": "VAR_MONK_104_ENCOUNTER",
+      "var_value": "0",
+      "script": "Route104_ColinScript1"
     }
   ],
   "bg_events": [

@@ -613,6 +613,7 @@ gSongTable::
 	song ph_nurse_solo, 2, 2
 	song mus_shit, 0, 0
 	song mus_yiik, 0, 0
+	song mus_vs_monk2, 0, 0
 
 	.align 2
 dummy_song_header:
