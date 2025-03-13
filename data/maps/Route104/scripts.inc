@@ -1,67 +1,67 @@
-Route104_ColinScript0::
+Route104_RuiScript0::
 # 4 "data/maps/Route104/scripts.pory"
 	lock
 # 5 "data/maps/Route104/scripts.pory"
-	clearflag FLAG_MONK_MET
+	clearflag FLAG_RUI_MET
 # 6 "data/maps/Route104/scripts.pory"
 	addobject 35
 # 7 "data/maps/Route104/scripts.pory"
 	setobjectxy 35, 10, 30
 # 9 "data/maps/Route104/scripts.pory"
-	goto Route104_ColinScript
+	goto Route104_RuiScript
 	return
 
 
-Route104_ColinScript1::
+Route104_RuiScript1::
 # 16 "data/maps/Route104/scripts.pory"
 	lock
 # 17 "data/maps/Route104/scripts.pory"
-	clearflag FLAG_MONK_MET
+	clearflag FLAG_RUI_MET
 # 18 "data/maps/Route104/scripts.pory"
 	addobject 35
 # 19 "data/maps/Route104/scripts.pory"
 	setobjectxy 35, 11, 30
 # 21 "data/maps/Route104/scripts.pory"
-	goto Route104_ColinScript
+	goto Route104_RuiScript
 	return
 
 
-Route104_ColinScript::
+Route104_RuiScript::
 # 26 "data/maps/Route104/scripts.pory"
-	applymovement 35, MonkApproach
+	applymovement 35, RuiApproach
 # 27 "data/maps/Route104/scripts.pory"
 	waitmovement 0
 # 28 "data/maps/Route104/scripts.pory"
-	applymovement OBJ_EVENT_ID_PLAYER, PlayerFaceMonk
+	applymovement OBJ_EVENT_ID_PLAYER, PlayerFaceRui
 # 29 "data/maps/Route104/scripts.pory"
-	playse SE_PIN
+	msgbox Route104_RuiScript_Text_0
 # 30 "data/maps/Route104/scripts.pory"
-	msgbox Route104_ColinScript_Text_0
+	playse SE_PIN
 # 31 "data/maps/Route104/scripts.pory"
-	trainerbattle_no_intro TRAINER_COLIN, Route104_ColinScript_Text_1
+	trainerbattle_no_intro TRAINER_RED, Route104_RuiScript_Text_1
 # 32 "data/maps/Route104/scripts.pory"
-	msgbox Route104_ColinScript_Text_2
+	msgbox Route104_RuiScript_Text_2
 # 33 "data/maps/Route104/scripts.pory"
 	delay 30
 # 35 "data/maps/Route104/scripts.pory"
 	removeobject 35
 # 36 "data/maps/Route104/scripts.pory"
-	setflag FLAG_MONK_MET
+	setflag FLAG_RUI_MET
 # 37 "data/maps/Route104/scripts.pory"
-	setvar VAR_MONK_104_ENCOUNTER, 1
+	setvar VAR_RUI_104_ENCOUNTER, 1
 # 38 "data/maps/Route104/scripts.pory"
 	release
 	end
 
 
 # 44 "data/maps/Route104/scripts.pory"
-MonkApproach:
+RuiApproach:
 # 45 "data/maps/Route104/scripts.pory"
 	walk_up
 	step_end
 
 # 48 "data/maps/Route104/scripts.pory"
-PlayerFaceMonk:
+PlayerFaceRui:
 # 49 "data/maps/Route104/scripts.pory"
 	face_down
 	step_end
@@ -109,7 +109,7 @@ Route104_EventScript_StartSailToDewford::
 # 77 "data/maps/Route104/scripts.pory"
 Route104_OnTransition:
 # 78 "data/maps/Route104/scripts.pory"
-	setflag(FLAG_MONK_MET)
+	setflag(FLAG_RUI_MET)
 # 79 "data/maps/Route104/scripts.pory"
 	call Common_EventScript_SetupRivalGfxId
 # 80 "data/maps/Route104/scripts.pory"
@@ -2417,14 +2417,16 @@ Route104_Text_BrendanPostBattle:
 # 1231 "data/maps/Route104/scripts.pory"
 	.string "become friends with your POKéMON.$"
 
-Route104_ColinScript_Text_0:
-# 30 "data/maps/Route104/scripts.pory"
-	.string "Bruh, what are you doing here?$"
+Route104_RuiScript_Text_0:
+# 29 "data/maps/Route104/scripts.pory"
+	.string "Big Ben tower of london beatles\n"
+	.string "manchester united manchester city\l"
+	.string "stonehenge$"
 
-Route104_ColinScript_Text_1:
+Route104_RuiScript_Text_1:
 # 31 "data/maps/Route104/scripts.pory"
-	.string "Bruh.$"
+	.string "God save the queen.$"
 
-Route104_ColinScript_Text_2:
+Route104_RuiScript_Text_2:
 # 32 "data/maps/Route104/scripts.pory"
-	.string "Well, back to gambling I guess.$"
+	.string "The United Kingdom$"

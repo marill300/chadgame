@@ -42219,9 +42219,9 @@ F_TRAINER_FEMALE |
     [DIFFICULTY_NORMAL][TRAINER_RED] =
     {
 #line 16894
-        .trainerName = _("RED"),
+        .trainerName = _("RUI"),
 #line 16895
-        .trainerClass = TRAINER_CLASS_RIVAL,
+        .trainerClass = TRAINER_CLASS_COLIN,
 #line 16896
         .trainerPic = TRAINER_PIC_RED,
         .encounterMusic_gender =
