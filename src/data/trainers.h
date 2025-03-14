@@ -42229,11 +42229,11 @@ F_TRAINER_FEMALE |
 #line 16897
     [DIFFICULTY_NORMAL][TRAINER_RED] =
     {
-#line 16898
+#line 16894
         .trainerName = _("RED"),
-#line 16899
+#line 16895
         .trainerClass = TRAINER_CLASS_RIVAL,
-#line 16900
+#line 16896
         .trainerPic = TRAINER_PIC_RED,
         .encounterMusic_gender =
 #line 16902
@@ -42259,11 +42259,11 @@ F_TRAINER_FEMALE |
 #line 16909
     [DIFFICULTY_NORMAL][TRAINER_LEAF] =
     {
-#line 16910
+#line 16906
         .trainerName = _("LEAF"),
-#line 16911
+#line 16907
         .trainerClass = TRAINER_CLASS_RIVAL,
-#line 16912
+#line 16908
         .trainerPic = TRAINER_PIC_LEAF,
         .encounterMusic_gender =
 #line 16913
