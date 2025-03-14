@@ -7452,20 +7452,24 @@ Level: 29
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 === TRAINER_COLIN ===
-Name: COLIN
-Class: Colin
+Name: RUIPCC
+Class: Bird Keeper
 Pic: Bird Keeper
 Gender: Male
 Music: Cool
 Double Battle: No
 AI: Check Bad Move
 
-Wingull
-Level: 28
+Tandemaus
+Level: 12
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
-Natu
-Level: 28
+Sneasel
+Level: 13
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+
+Electrike
+Level: 12
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_ROBERT_1 ===
