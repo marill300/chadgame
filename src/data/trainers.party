@@ -16922,9 +16922,37 @@ Gender: Female
 Music: Male
 Double Battle: No
 
-Bulbasaur
-Level: 5
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Tinkatink  
+Ability: Mold Breaker  
+Level: 20  
+Tera Type: Fairy  
+Naive Nature  
+- Fake Out  
+- Knock Off  
+- Draining Kiss  
+- Flash Cannon  
+
+Yanma  
+Ability: Speed Boost  
+Level: 20  
+Tera Type: Bug  
+Modest Nature  
+IVs: 0 Atk  
+- Detect  
+- Ancient Power  
+- Struggle Bug  
+- Air Cutter  
+
+Scyther  
+Ability: Technician  
+Level: 21  
+Tera Type: Bug  
+Adamant Nature  
+- Trailblaze  
+- Quick Attack  
+- Pounce  
+- Dual Wingbeat  
+
 
 === TRAINER_BRENDAN_PLACEHOLDER ===
 Name: BRENDAN
