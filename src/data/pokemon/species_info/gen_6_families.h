@@ -3932,8 +3932,8 @@ const struct SpeciesInfo gSpeciesInfoGen6[] =
     [SPECIES_TYRANTRUM] =
     {
         .baseHP        = 82,
-        .baseAttack    = 121,
-        .baseDefense   = 119,
+        .baseAttack    = 140,
+        .baseDefense   = 109,
         .baseSpeed     = 71,
         .baseSpAttack  = 69,
         .baseSpDefense = 59,
@@ -4076,10 +4076,10 @@ const struct SpeciesInfo gSpeciesInfoGen6[] =
     [SPECIES_AURORUS] =
     {
         .baseHP        = 123,
-        .baseAttack    = 77,
+        .baseAttack    = 67,
         .baseDefense   = 72,
         .baseSpeed     = 58,
-        .baseSpAttack  = 99,
+        .baseSpAttack  = 118,
         .baseSpDefense = 92,
         .types = MON_TYPES(TYPE_ROCK, TYPE_ICE),
         .catchRate = 45,

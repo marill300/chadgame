@@ -3192,7 +3192,7 @@ const struct SpeciesInfo gSpeciesInfoGen9[] =
     [SPECIES_KLAWF] =
     {
         .baseHP        = 70,
-        .baseAttack    = 100,
+        .baseAttack    = 110,
         .baseDefense   = 115,
         .baseSpeed     = 75,
         .baseSpAttack  = 35,
