@@ -18771,6 +18771,11 @@ static const struct LevelUpMove sCoalossalLevelUpLearnset[] = {
 static const struct LevelUpMove sApplinLevelUpLearnset[] = {
     LEVEL_UP_MOVE( 1, MOVE_ASTONISH),
     LEVEL_UP_MOVE( 1, MOVE_WITHDRAW),
+    LEVEL_UP_MOVE( 8, MOVE_ABSORB),
+    LEVEL_UP_MOVE( 12, MOVE_DRAGON_BREATH),
+    LEVEL_UP_MOVE( 16, MOVE_LEECH_SEED),
+    LEVEL_UP_MOVE( 20, MOVE_MEGA_DRAIN),
+    LEVEL_UP_MOVE( 23, MOVE_SLEEP_POWDER),
     LEVEL_UP_END
 };
 
