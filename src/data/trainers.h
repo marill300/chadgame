@@ -42294,19 +42294,17 @@ F_TRAINER_FEMALE |
 #line 16923
             .species = SPECIES_TINKATINK,
             .gender = TRAINER_MON_RANDOM_GENDER,
-#line 16928
+#line 16927
             .iv = TRAINER_PARTY_IVS(31, 31, 31, 31, 31, 31),
 #line 16924
             .ability = ABILITY_MOLD_BREAKER,
 #line 16925
             .lvl = 20,
-#line 16927
+#line 16926
             .nature = NATURE_NAIVE,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-#line 16926
-            .teraType = TYPE_FAIRY,
             .moves = {
-#line 16928
+#line 16927
                 MOVE_FAKE_OUT,
                 MOVE_KNOCK_OFF,
                 MOVE_DRAINING_KISS,
@@ -42314,22 +42312,20 @@ F_TRAINER_FEMALE |
             },
             },
             {
-#line 16933
+#line 16932
             .species = SPECIES_YANMA,
             .gender = TRAINER_MON_RANDOM_GENDER,
-#line 16938
+#line 16936
             .iv = TRAINER_PARTY_IVS(31, 0, 31, 31, 31, 31),
-#line 16934
+#line 16933
             .ability = ABILITY_SPEED_BOOST,
-#line 16935
+#line 16934
             .lvl = 20,
-#line 16937
+#line 16935
             .nature = NATURE_MODEST,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-#line 16936
-            .teraType = TYPE_BUG,
             .moves = {
-#line 16939
+#line 16937
                 MOVE_DETECT,
                 MOVE_ANCIENT_POWER,
                 MOVE_STRUGGLE_BUG,
@@ -42337,22 +42333,20 @@ F_TRAINER_FEMALE |
             },
             },
             {
-#line 16944
+#line 16942
             .species = SPECIES_SCYTHER,
             .gender = TRAINER_MON_RANDOM_GENDER,
-#line 16949
-            .iv = TRAINER_PARTY_IVS(31, 31, 31, 31, 31, 31),
-#line 16945
-            .ability = ABILITY_TECHNICIAN,
 #line 16946
+            .iv = TRAINER_PARTY_IVS(31, 31, 31, 31, 31, 31),
+#line 16943
+            .ability = ABILITY_TECHNICIAN,
+#line 16944
             .lvl = 21,
-#line 16948
+#line 16945
             .nature = NATURE_ADAMANT,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-#line 16947
-            .teraType = TYPE_BUG,
             .moves = {
-#line 16949
+#line 16946
                 MOVE_TRAILBLAZE,
                 MOVE_QUICK_ATTACK,
                 MOVE_POUNCE,
@@ -42361,62 +42355,62 @@ F_TRAINER_FEMALE |
             },
         },
     },
-#line 16955
+#line 16952
     [DIFFICULTY_NORMAL][TRAINER_BRENDAN_PLACEHOLDER] =
     {
-#line 16956
+#line 16953
         .trainerName = _("BRENDAN"),
-#line 16957
+#line 16954
         .trainerClass = TRAINER_CLASS_RS_PROTAG,
-#line 16958
+#line 16955
         .trainerPic = TRAINER_PIC_RS_BRENDAN,
         .encounterMusic_gender =
-#line 16960
+#line 16957
             TRAINER_ENCOUNTER_MUSIC_MALE,
-#line 16961
+#line 16958
         .doubleBattle = FALSE,
         .partySize = 1,
         .party = (const struct TrainerMon[])
         {
             {
-#line 16963
+#line 16960
             .species = SPECIES_GROUDON,
             .gender = TRAINER_MON_RANDOM_GENDER,
-#line 16965
+#line 16962
             .iv = TRAINER_PARTY_IVS(31, 31, 31, 31, 31, 31),
-#line 16964
+#line 16961
             .lvl = 5,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
             },
         },
     },
-#line 16967
+#line 16964
     [DIFFICULTY_NORMAL][TRAINER_MAY_PLACEHOLDER] =
     {
-#line 16968
+#line 16965
         .trainerName = _("MAY"),
-#line 16969
+#line 16966
         .trainerClass = TRAINER_CLASS_RS_PROTAG,
-#line 16970
+#line 16967
         .trainerPic = TRAINER_PIC_RS_MAY,
         .encounterMusic_gender =
-#line 16971
+#line 16968
 F_TRAINER_FEMALE | 
-#line 16972
+#line 16969
             TRAINER_ENCOUNTER_MUSIC_MALE,
-#line 16973
+#line 16970
         .doubleBattle = FALSE,
         .partySize = 1,
         .party = (const struct TrainerMon[])
         {
             {
-#line 16975
+#line 16972
             .species = SPECIES_KYOGRE,
             .gender = TRAINER_MON_RANDOM_GENDER,
-#line 16977
+#line 16974
             .iv = TRAINER_PARTY_IVS(31, 31, 31, 31, 31, 31),
-#line 16976
+#line 16973
             .lvl = 5,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
