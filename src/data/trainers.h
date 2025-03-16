@@ -12010,7 +12010,7 @@ F_TRAINER_FEMALE |
                 MOVE_WING_ATTACK,
                 MOVE_BUG_BITE,
                 MOVE_THIEF,
-                MOVE_SWORDS_DANCE,
+                MOVE_FOCUS_ENERGY,
             },
             },
             {
