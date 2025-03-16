@@ -16892,7 +16892,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_RED ===
 Name: RUI
-Class: Colin
+Class: Rival
 Pic: Red
 Gender: Male
 Music: Male
@@ -16913,7 +16913,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_LEAF ===
 Name: COLIN
-Class: Colin
+Class: Rival
 Pic: Leaf
 Gender: Female
 Music: Male

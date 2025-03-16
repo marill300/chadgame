@@ -42221,7 +42221,7 @@ F_TRAINER_FEMALE |
 #line 16894
         .trainerName = _("RUI"),
 #line 16895
-        .trainerClass = TRAINER_CLASS_COLIN,
+        .trainerClass = TRAINER_CLASS_RIVAL,
 #line 16896
         .trainerPic = TRAINER_PIC_RED,
         .encounterMusic_gender =
@@ -42275,7 +42275,7 @@ F_TRAINER_FEMALE |
 #line 16915
         .trainerName = _("COLIN"),
 #line 16916
-        .trainerClass = TRAINER_CLASS_COLIN,
+        .trainerClass = TRAINER_CLASS_RIVAL,
 #line 16917
         .trainerPic = TRAINER_PIC_LEAF,
         .encounterMusic_gender =
