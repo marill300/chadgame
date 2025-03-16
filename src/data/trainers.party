@@ -4799,7 +4799,7 @@ Pic: Leader Roxanne
 Gender: Female
 Music: Female
 Double Battle: No
-AI: Smart Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Solrock
 Level: 14
@@ -7452,7 +7452,7 @@ Level: 29
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 === TRAINER_COLIN ===
-Name: RUIPCC
+Name: COLIN
 Class: Bird Keeper
 Pic: Bird Keeper
 Gender: Male
@@ -7460,29 +7460,13 @@ Music: Cool
 Double Battle: No
 AI: Check Bad Move
 
-Tandemaus  
-Ability: Own Tempo  
-Level: 12  
-- Low Kick  
-- Super Fang  
-- Bite  
-- Double Hit  
+Wingull
+Level: 28
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-Sneasel  
-Ability: Inner Focus  
-Level: 13  
-- Fake Out  
-- Quick Attack  
-- Ice Shard  
-- Thief  
-
-Electrike  
-Ability: Static  
-Level: 12   
-- Flame Burst  
-- Spark  
-- Thunder Wave  
-- Mud-Slap  
+Natu
+Level: 28
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_ROBERT_1 ===
 Name: ROBERT
@@ -16913,6 +16897,7 @@ Pic: Red
 Gender: Male
 Music: Male
 Double Battle: No
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Tandemaus
 Level: 12
@@ -16933,11 +16918,11 @@ Pic: Leaf
 Gender: Female
 Music: Male
 Double Battle: No
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Tinkatink  
 Ability: Mold Breaker  
 Level: 20  
-Tera Type: Fairy  
 Naive Nature  
 - Fake Out  
 - Knock Off  
@@ -16946,8 +16931,7 @@ Naive Nature
 
 Yanma  
 Ability: Speed Boost  
-Level: 20  
-Tera Type: Bug  
+Level: 20   
 Modest Nature  
 IVs: 0 Atk  
 - Detect  
@@ -16957,8 +16941,7 @@ IVs: 0 Atk
 
 Scyther  
 Ability: Technician  
-Level: 21  
-Tera Type: Bug  
+Level: 21   
 Adamant Nature  
 - Trailblaze  
 - Quick Attack  
