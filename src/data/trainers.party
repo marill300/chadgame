@@ -4807,7 +4807,7 @@ Ability: Drought
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Flame Burst
 - Rock Tomb
-- Extrasensory
+- Psybeam
 - Solar Beam
 
 TAUROS_PALDEA_BLAZE
@@ -7460,17 +7460,29 @@ Music: Cool
 Double Battle: No
 AI: Check Bad Move
 
-Tandemaus
-Level: 12
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Tandemaus  
+Ability: Own Tempo  
+Level: 12  
+- Low Kick  
+- Super Fang  
+- Bite  
+- Double Hit  
 
-Sneasel
-Level: 13
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Sneasel  
+Ability: Inner Focus  
+Level: 13  
+- Fake Out  
+- Quick Attack  
+- Ice Shard  
+- Thief  
 
-Electrike
-Level: 12
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Electrike  
+Ability: Static  
+Level: 12   
+- Flame Burst  
+- Spark  
+- Thunder Wave  
+- Mud-Slap  
 
 === TRAINER_ROBERT_1 ===
 Name: ROBERT
