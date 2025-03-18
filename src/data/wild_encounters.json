@@ -1459,7 +1459,7 @@
               {
                 "min_level": 15,
                 "max_level": 17,
-                "species": "SPECIES_ODDISH"
+                "species": "SPECIES_DODUO"
               },
               {
                 "min_level": 15,
@@ -8584,6 +8584,71 @@
         {
           "map": "MAP_DEWFORD_TOWN",
           "base_label": "gDewfordTown",
+          "land_mons": {
+            "encounter_rate": 10,
+            "mons": [
+              {
+                "min_level": 11,
+                "max_level": 13,
+                "species": "SPECIES_SPINARAK"
+              },
+              {
+                "min_level": 11,
+                "max_level": 11,
+                "species": "SPECIES_CORSOLA"
+              },
+              {
+                "min_level": 12,
+                "max_level": 13,
+                "species": "SPECIES_SPHEAL"
+              },
+              {
+                "min_level": 12,
+                "max_level": 13,
+                "species": "SPECIES_YANMA"
+              },
+              {
+                "min_level": 11,
+                "max_level": 13,
+                "species": "SPECIES_CRABRAWLER"
+              },
+              {
+                "min_level": 12,
+                "max_level": 13,
+                "species": "SPECIES_KRABBY"
+              },
+              {
+                "min_level": 12,
+                "max_level": 13,
+                "species": "SPECIES_STARYU"
+              },
+              {
+                "min_level": 13,
+                "max_level": 13,
+                "species": "SPECIES_POPPLIO"
+              },
+              {
+                "min_level": 13,
+                "max_level": 13,
+                "species": "SPECIES_SLOWPOKE"
+              },
+              {
+                "min_level": 13,
+                "max_level": 13,
+                "species": "SPECIES_SLOWPOKE"
+              },
+              {
+                "min_level": 13,
+                "max_level": 13,
+                "species": "SPECIES_SLOWPOKE"
+              },
+              {
+                "min_level": 13,
+                "max_level": 13,
+                "species": "SPECIES_SLOWPOKE"
+              }
+            ]
+          },
           "water_mons": {
             "encounter_rate": 4,
             "mons": [
@@ -8668,76 +8733,76 @@
                 "species": "SPECIES_WAILMER"
               }
             ]
-          },
-          "land_mons": {
-            "encounter_rate": 10,
-            "mons": [
-              {
-                "min_level": 11,
-                "max_level": 13,
-                "species": "SPECIES_SPINARAK"
-              },
-              {
-                "min_level": 11,
-                "max_level": 11,
-                "species": "SPECIES_CORSOLA"
-              },
-              {
-                "min_level": 12,
-                "max_level": 13,
-                "species": "SPECIES_SPHEAL"
-              },
-              {
-                "min_level": 12,
-                "max_level": 13,
-                "species": "SPECIES_YANMA"
-              },
-              {
-                "min_level": 11,
-                "max_level": 13,
-                "species": "SPECIES_CRABRAWLER"
-              },
-              {
-                "min_level": 12,
-                "max_level": 13,
-                "species": "SPECIES_KRABBY"
-              },
-              {
-                "min_level": 12,
-                "max_level": 13,
-                "species": "SPECIES_STARYU"
-              },
-              {
-                "min_level": 13,
-                "max_level": 13,
-                "species": "SPECIES_POPPLIO"
-              },
-              {
-                "min_level": 13,
-                "max_level": 13,
-                "species": "SPECIES_SLOWPOKE"
-              },
-              {
-                "min_level": 13,
-                "max_level": 13,
-                "species": "SPECIES_SLOWPOKE"
-              },
-              {
-                "min_level": 13,
-                "max_level": 13,
-                "species": "SPECIES_SLOWPOKE"
-              },
-              {
-                "min_level": 13,
-                "max_level": 13,
-                "species": "SPECIES_SLOWPOKE"
-              }
-            ]
           }
         },
         {
           "map": "MAP_SLATEPORT_CITY",
           "base_label": "gSlateportCity",
+          "land_mons": {
+            "encounter_rate": 10,
+            "mons": [
+              {
+                "min_level": 13,
+                "max_level": 15,
+                "species": "SPECIES_PANSAGE"
+              },
+              {
+                "min_level": 13,
+                "max_level": 15,
+                "species": "SPECIES_PANPOUR"
+              },
+              {
+                "min_level": 13,
+                "max_level": 15,
+                "species": "SPECIES_PANSEAR"
+              },
+              {
+                "min_level": 13,
+                "max_level": 15,
+                "species": "SPECIES_GRIMER_ALOLA"
+              },
+              {
+                "min_level": 13,
+                "max_level": 14,
+                "species": "SPECIES_MILTANK"
+              },
+              {
+                "min_level": 14,
+                "max_level": 15,
+                "species": "SPECIES_CHERUBI"
+              },
+              {
+                "min_level": 14,
+                "max_level": 15,
+                "species": "SPECIES_AUDINO"
+              },
+              {
+                "min_level": 14,
+                "max_level": 15,
+                "species": "SPECIES_TREECKO"
+              },
+              {
+                "min_level": 15,
+                "max_level": 15,
+                "species": "SPECIES_SMOOCHUM"
+              },
+              {
+                "min_level": 15,
+                "max_level": 15,
+                "species": "SPECIES_MILTANK"
+              },
+              {
+                "min_level": 16,
+                "max_level": 16,
+                "species": "SPECIES_SMOOCHUM"
+              },
+              {
+                "min_level": 16,
+                "max_level": 16,
+                "species": "SPECIES_MILTANK"
+              }
+            ]
+          },
           "water_mons": {
             "encounter_rate": 4,
             "mons": [
@@ -8820,71 +8885,6 @@
                 "min_level": 40,
                 "max_level": 45,
                 "species": "SPECIES_WAILMER"
-              }
-            ]
-          },
-          "land_mons": {
-            "encounter_rate": 10,
-            "mons": [
-              {
-                "min_level": 13,
-                "max_level": 15,
-                "species": "SPECIES_PANSAGE"
-              },
-              {
-                "min_level": 13,
-                "max_level": 15,
-                "species": "SPECIES_PANPOUR"
-              },
-              {
-                "min_level": 13,
-                "max_level": 15,
-                "species": "SPECIES_PANSEAR"
-              },
-              {
-                "min_level": 13,
-                "max_level": 15,
-                "species": "SPECIES_GRIMER_ALOLA"
-              },
-              {
-                "min_level": 13,
-                "max_level": 14,
-                "species": "SPECIES_MILTANK"
-              },
-              {
-                "min_level": 14,
-                "max_level": 15,
-                "species": "SPECIES_CHERUBI"
-              },
-              {
-                "min_level": 14,
-                "max_level": 15,
-                "species": "SPECIES_AUDINO"
-              },
-              {
-                "min_level": 14,
-                "max_level": 15,
-                "species": "SPECIES_TREECKO"
-              },
-              {
-                "min_level": 15,
-                "max_level": 15,
-                "species": "SPECIES_SMOOCHUM"
-              },
-              {
-                "min_level": 15,
-                "max_level": 15,
-                "species": "SPECIES_MILTANK"
-              },
-              {
-                "min_level": 16,
-                "max_level": 16,
-                "species": "SPECIES_SMOOCHUM"
-              },
-              {
-                "min_level": 16,
-                "max_level": 16,
-                "species": "SPECIES_MILTANK"
               }
             ]
           }
