@@ -145,8 +145,8 @@ const struct SpeciesInfo gSpeciesInfoGen4[] =
     [SPECIES_TORTERRA] =
     {
         .baseHP        = 95,
-        .baseAttack    = 109,
-        .baseDefense   = 105,
+        .baseAttack    = 119,
+        .baseDefense   = 120,
         .baseSpeed     = 56,
         .baseSpAttack  = 75,
         .baseSpDefense = 85,
@@ -366,9 +366,9 @@ const struct SpeciesInfo gSpeciesInfoGen4[] =
     [SPECIES_INFERNAPE] =
     {
         .baseHP        = 76,
-        .baseAttack    = 104,
+        .baseAttack    = 114,
         .baseDefense   = 71,
-        .baseSpeed     = 108,
+        .baseSpeed     = 118,
         .baseSpAttack  = 104,
         .baseSpDefense = 71,
         .types = MON_TYPES(TYPE_FIRE, TYPE_FIGHTING),
@@ -2614,10 +2614,10 @@ const struct SpeciesInfo gSpeciesInfoGen4[] =
     [SPECIES_FLOATZEL] =
     {
         .baseHP        = 85,
-        .baseAttack    = 105,
+        .baseAttack    = 120,
         .baseDefense   = 55,
-        .baseSpeed     = 115,
-        .baseSpAttack  = 85,
+        .baseSpeed     = 125,
+        .baseSpAttack  = 75,
         .baseSpDefense = 50,
         .types = MON_TYPES(TYPE_WATER),
         .catchRate = 75,
@@ -2773,11 +2773,11 @@ const struct SpeciesInfo gSpeciesInfoGen4[] =
     [SPECIES_CHERRIM_OVERCAST] =
     {
         .baseHP        = 70,
-        .baseAttack    = 60,
+        .baseAttack    = 90,
         .baseDefense   = 70,
-        .baseSpeed     = 85,
+        .baseSpeed     = 100,
         .baseSpAttack  = 87,
-        .baseSpDefense = 78,
+        .baseSpDefense = 88,
         .types = MON_TYPES(TYPE_GRASS),
         .catchRate = 75,
         .expYield = (P_UPDATED_EXP_YIELDS >= GEN_5) ? 158 : 133,
@@ -2845,11 +2845,11 @@ const struct SpeciesInfo gSpeciesInfoGen4[] =
     [SPECIES_CHERRIM_SUNSHINE] =
     {
         .baseHP        = 70,
-        .baseAttack    = 60,
+        .baseAttack    = 90,
         .baseDefense   = 70,
-        .baseSpeed     = 85,
+        .baseSpeed     = 100,
         .baseSpAttack  = 87,
-        .baseSpDefense = 78,
+        .baseSpDefense = 88,
         .types = MON_TYPES(TYPE_GRASS),
         .catchRate = 75,
         .expYield = (P_UPDATED_EXP_YIELDS >= GEN_5) ? 158 : 133,
@@ -3245,10 +3245,10 @@ const struct SpeciesInfo gSpeciesInfoGen4[] =
     {
         .baseHP        = 150,
         .baseAttack    = 80,
-        .baseDefense   = 44,
-        .baseSpeed     = 80,
+        .baseDefense   = 60,
+        .baseSpeed     = 70,
         .baseSpAttack  = 90,
-        .baseSpDefense = 54,
+        .baseSpDefense = 70,
         .types = MON_TYPES(TYPE_GHOST, TYPE_FLYING),
         .catchRate = 60,
         .expYield = (P_UPDATED_EXP_YIELDS >= GEN_5) ? 174 : 204,

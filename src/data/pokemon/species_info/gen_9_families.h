@@ -979,9 +979,9 @@ const struct SpeciesInfo gSpeciesInfoGen9[] =
     [SPECIES_LOKIX] =
     {
         .baseHP        = 71,
-        .baseAttack    = 102,
+        .baseAttack    = 112,
         .baseDefense   = 78,
-        .baseSpeed     = 92,
+        .baseSpeed     = 107,
         .baseSpAttack  = 52,
         .baseSpDefense = 55,
         .types = MON_TYPES(TYPE_BUG, TYPE_DARK),
@@ -3777,9 +3777,9 @@ const struct SpeciesInfo gSpeciesInfoGen9[] =
     [SPECIES_TINKATON] =
     {
         .baseHP        = 85,
-        .baseAttack    = 75,
+        .baseAttack    = 85,
         .baseDefense   = 77,
-        .baseSpeed     = 94,
+        .baseSpeed     = 104,
         .baseSpAttack  = 70,
         .baseSpDefense = 105,
         .types = MON_TYPES(TYPE_FAIRY, TYPE_STEEL),
@@ -4297,9 +4297,9 @@ const struct SpeciesInfo gSpeciesInfoGen9[] =
 
     [SPECIES_REVAVROOM] =
     {
-        .baseHP        = 80,
+        .baseHP        = 90,
         .baseAttack    = 119,
-        .baseDefense   = 90,
+        .baseDefense   = 100,
         .baseSpeed     = 90,
         .baseSpAttack  = 54,
         .baseSpDefense = 67,
@@ -4312,7 +4312,7 @@ const struct SpeciesInfo gSpeciesInfoGen9[] =
         .friendship = STANDARD_FRIENDSHIP,
         .growthRate = GROWTH_MEDIUM_FAST,
         .eggGroups = MON_EGG_GROUPS(EGG_GROUP_MINERAL),
-        .abilities = { ABILITY_OVERCOAT, ABILITY_NONE, ABILITY_FILTER },
+        .abilities = { ABILITY_OVERCOAT, ABILITY_SPEED_BOOST, ABILITY_FILTER },
         .bodyColor = BODY_COLOR_GRAY,
         .speciesName = _("Revavroom"),
         .cryId = CRY_REVAVROOM,

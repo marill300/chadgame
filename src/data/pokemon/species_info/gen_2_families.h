@@ -7682,9 +7682,9 @@ const struct SpeciesInfo gSpeciesInfoGen2[] =
 #if P_FAMILY_MILTANK
     [SPECIES_MILTANK] =
     {
-        .baseHP        = 95,
-        .baseAttack    = 80,
-        .baseDefense   = 105,
+        .baseHP        = 110,
+        .baseAttack    = 90,
+        .baseDefense   = 115,
         .baseSpeed     = 100,
         .baseSpAttack  = 40,
         .baseSpDefense = 70,

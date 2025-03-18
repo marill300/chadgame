@@ -808,10 +808,10 @@ const struct SpeciesInfo gSpeciesInfoGen7[] =
     [SPECIES_TOUCANNON] =
     {
         .baseHP        = 80,
-        .baseAttack    = 120,
+        .baseAttack    = 130,
         .baseDefense   = 75,
-        .baseSpeed     = 60,
-        .baseSpAttack  = 75,
+        .baseSpeed     = 70,
+        .baseSpAttack  = 65,
         .baseSpDefense = 75,
         .types = MON_TYPES(TYPE_NORMAL, TYPE_FLYING),
         .catchRate = 45,
@@ -4226,12 +4226,12 @@ const struct SpeciesInfo gSpeciesInfoGen7[] =
 #if P_FAMILY_PYUKUMUKU
     [SPECIES_PYUKUMUKU] =
     {
-        .baseHP        = 55,
+        .baseHP        = 105,
         .baseAttack    = 60,
-        .baseDefense   = 130,
+        .baseDefense   = 110,
         .baseSpeed     = 5,
         .baseSpAttack  = 30,
-        .baseSpDefense = 130,
+        .baseSpDefense = 110,
         .types = MON_TYPES(TYPE_WATER),
         .catchRate = 60,
         .expYield = 144,
@@ -4629,11 +4629,11 @@ const struct SpeciesInfo gSpeciesInfoGen7[] =
 #if P_FAMILY_TURTONATOR
     [SPECIES_TURTONATOR] =
     {
-        .baseHP        = 60,
+        .baseHP        = 70,
         .baseAttack    = 78,
         .baseDefense   = 135,
         .baseSpeed     = 36,
-        .baseSpAttack  = 91,
+        .baseSpAttack  = 101,
         .baseSpDefense = 85,
         .types = MON_TYPES(TYPE_FIRE, TYPE_DRAGON),
         .catchRate = 70,
