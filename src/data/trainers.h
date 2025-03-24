@@ -11946,7 +11946,7 @@ F_TRAINER_FEMALE |
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
             .moves = {
 #line 4828
-                MOVE_FLAME_BURST,
+                MOVE_INCINERATE,
                 MOVE_ROCK_TOMB,
                 MOVE_PSYBEAM,
                 MOVE_SOLAR_BEAM,
@@ -11967,7 +11967,7 @@ F_TRAINER_FEMALE |
                 MOVE_DOUBLE_KICK,
                 MOVE_FLAME_CHARGE,
                 MOVE_HEADBUTT,
-                MOVE_PAYBACK,
+                MOVE_PURSUIT,
             },
             },
             {
