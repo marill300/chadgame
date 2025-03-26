@@ -9603,17 +9603,41 @@ Music: Male
 Double Battle: No
 AI: Basic Trainer
 
-Slugma
-Level: 18
-IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
+Growlithe  
+Ability: Intimidate  
+Level: 27  
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Fire Fang  
+- Will-O-Wisp  
+- Bite  
+- Thunder Fang  
 
-Wingull
-Level: 18
-IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
+Primeape  
+Ability: Defiant  
+Level: 28  
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Cross Chop  
+- Assurance  
+- Low Kick  
+- Counter  
 
-Grovyle
-Level: 20
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+Metang  
+Ability: Clear Body  
+Level: 27  
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe 
+- Bullet Punch  
+- Zen Headbutt  
+- Flash Cannon  
+- Hone Claws  
+
+Grovyle  
+Ability: Overgrow  
+Level: 29
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe   
+- Leaf Blade  
+- X-Scissor  
+- Thunder Punch  
+- Aerial Ace  
 
 === TRAINER_BRENDAN_ROUTE_119_MUDKIP ===
 Name: BRENDAN
@@ -9658,17 +9682,41 @@ Music: Male
 Double Battle: No
 AI: Basic Trainer
 
-Wingull
-Level: 18
-IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
+Luxio  
+Ability: Intimidate  
+Level: 27  
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Psychic Fangs  
+- Fire Fang  
+- Ice Fang  
+- Thunder Fang  
 
-Lombre
-Level: 18
-IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
+Pawniard  
+Ability: Defiant  
+Level: 28 
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe  
+- Low Kick  
+- Sucker Punch  
+- Metal Claw  
+- Rock Tomb  
 
-Combusken
-Level: 20
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+Arctibax  
+Ability: Thermal Exchange  
+Level: 28 
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe  
+- Dragon Tail  
+- Ice Shard  
+- Ice Fang  
+- Bite  
+
+Combusken  
+Ability: Blaze  
+Level: 29  
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe 
+- Double Kick  
+- Flame Charge  
+- Shadow Claw  
+- Bulk Up
 
 === TRAINER_BRENDAN_ROUTE_119_TREECKO ===
 Name: BRENDAN
@@ -9713,17 +9761,41 @@ Music: Male
 Double Battle: No
 AI: Basic Trainer
 
-Lombre
-Level: 18
-IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
+Granbull  
+Ability: Intimidate  
+Level: 27  
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Covet  
+- Ice Fang  
+- Fire Fang  
+- Thunder Fang  
 
-Slugma
-Level: 18
-IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
+Dipplin  
+Ability: Supersweet Syrup  
+Level: 28  
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Dragon Breath  
+- Syrup Bomb  
+- Leech Seed  
+- Sucker Punch  
 
-Marshtomp
-Level: 20
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+Dragonair  
+Ability: Marvel Scale  
+Level: 28  
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Extreme Speed  
+- Aqua Tail  
+- Scale Shot  
+- Thunder Wave  
+
+Marshtomp  
+Ability: Torrent  
+Level: 29  
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Rock Slide  
+- Bulldoze  
+- Low Kick  
+- Water Pulse  
 
 === TRAINER_BRENDAN_ROUTE_119_TORCHIC ===
 Name: BRENDAN
@@ -9768,17 +9840,41 @@ Music: Female
 Double Battle: No
 AI: Basic Trainer
 
-Wingull
-Level: 18
-IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
+Growlithe  
+Ability: Intimidate  
+Level: 27  
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Fire Fang  
+- Will-O-Wisp  
+- Bite  
+- Thunder Fang  
 
-Slugma
-Level: 18
-IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
+Primeape  
+Ability: Defiant  
+Level: 28  
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Cross Chop  
+- Assurance  
+- Low Kick  
+- Counter  
 
-Grovyle
-Level: 20
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+Metang  
+Ability: Clear Body  
+Level: 27  
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe 
+- Bullet Punch  
+- Zen Headbutt  
+- Flash Cannon  
+- Hone Claws  
+
+Grovyle  
+Ability: Overgrow  
+Level: 29
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe   
+- Leaf Blade  
+- X-Scissor  
+- Thunder Punch  
+- Aerial Ace  
 
 === TRAINER_MAY_ROUTE_119_MUDKIP ===
 Name: MAY
@@ -9823,17 +9919,41 @@ Music: Female
 Double Battle: No
 AI: Basic Trainer
 
-Wingull
-Level: 18
-IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
+Luxio  
+Ability: Intimidate  
+Level: 27  
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Psychic Fangs  
+- Fire Fang  
+- Ice Fang  
+- Thunder Fang  
 
-Lombre
-Level: 18
-IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
+Pawniard  
+Ability: Defiant  
+Level: 28 
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe  
+- Low Kick  
+- Sucker Punch  
+- Metal Claw  
+- Rock Tomb  
 
-Combusken
-Level: 20
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+Arctibax  
+Ability: Thermal Exchange  
+Level: 28 
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe  
+- Dragon Tail  
+- Ice Shard  
+- Ice Fang  
+- Bite  
+
+Combusken  
+Ability: Blaze  
+Level: 29  
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe 
+- Double Kick  
+- Flame Charge  
+- Shadow Claw  
+- Bulk Up
 
 === TRAINER_MAY_ROUTE_119_TREECKO ===
 Name: MAY
@@ -9878,17 +9998,41 @@ Music: Female
 Double Battle: No
 AI: Basic Trainer
 
-Lombre
-Level: 18
-IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
+Granbull  
+Ability: Intimidate  
+Level: 27  
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Covet  
+- Ice Fang  
+- Fire Fang  
+- Thunder Fang  
 
-Slugma
-Level: 18
-IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
+Dipplin  
+Ability: Supersweet Syrup  
+Level: 28  
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Dragon Breath  
+- Syrup Bomb  
+- Leech Seed  
+- Sucker Punch  
 
-Marshtomp
-Level: 20
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+Dragonair  
+Ability: Marvel Scale  
+Level: 28  
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Extreme Speed  
+- Aqua Tail  
+- Scale Shot  
+- Thunder Wave  
+
+Marshtomp  
+Ability: Torrent  
+Level: 29  
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Rock Slide  
+- Bulldoze  
+- Low Kick  
+- Water Pulse  
 
 === TRAINER_MAY_ROUTE_119_TORCHIC ===
 Name: MAY
@@ -10939,13 +11083,32 @@ Music: Male
 Double Battle: No
 AI: Check Bad Move
 
-Lotad
-Level: 13
-IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
+Luxio  
+Ability: Intimidate  
+Level: 15  
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Bite  
+- Spark  
+- Volt Switch  
+- Fire Fang  
 
-Torchic
-Level: 15
-IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
+Pawniard  
+Ability: Defiant  
+Level: 16  
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Fury Cutter  
+- Metal Claw  
+- Low Kick  
+- Cut  
+
+Combusken  
+Ability: Blaze  
+Level: 17  
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe 
+- Double Kick  
+- Flame Charge  
+- Pluck  
+- Quick Attack  
 
 === TRAINER_BRENDAN_RUSTBORO_MUDKIP ===
 Name: BRENDAN
@@ -10956,13 +11119,34 @@ Music: Male
 Double Battle: No
 AI: Check Bad Move
 
-Wingull
-Level: 13
-IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
+Growlithe  
+Ability: Intimidate  
+Level: 15 
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe  
+- Fire Fang  
+- Bite  
+- Covet  
+- Take Down  
 
-Treecko
-Level: 15
-IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
+Mankey  
+Ability: Vital Spirit  
+Level: 16  
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe 
+Happiness: 0  
+Tera Type: Fighting  
+- Low Kick  
+- Swagger  
+- Frustration  
+- Payback  
+
+Grovyle  
+Ability: Overgrow  
+Level: 17  
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe 
+- X-Scissor  
+- Energy Ball  
+- Quick Attack  
+- Aerial Ace  
 
 === TRAINER_PAXTON ===
 Name: PAXTON
@@ -11063,13 +11247,32 @@ Music: Male
 Double Battle: No
 AI: Basic Trainer
 
-Slugma
-Level: 13
-IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
+Snubbull  
+Ability: Intimidate  
+Level: 15  
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Covet  
+- Thunder Fang  
+- Fire Fang  
+- Ice Fang  
 
-Mudkip
-Level: 15
-IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
+Applin  
+Ability: Ripen  
+Level: 16  
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Dragon Breath  
+- Mega Drain  
+- Leech Seed  
+- Draco Meteor  
+
+Marshtomp  
+Ability: Torrent  
+Level: 17  
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Mud Shot  
+- Rock Throw  
+- Water Pulse  
+- Yawn  
 
 === TRAINER_MAY_RUSTBORO_MUDKIP ===
 Name: MAY
@@ -11080,13 +11283,33 @@ Music: Female
 Double Battle: No
 AI: Check Bad Move / Try To Faint / Force Setup First Turn
 
-Wingull
-Level: 13
-IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
+Growlithe  
+Ability: Intimidate  
+Level: 15  
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Fire Fang  
+- Bite  
+- Covet  
+- Take Down  
 
-Treecko
-Level: 15
-IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
+Mankey  
+Ability: Vital Spirit  
+Level: 16  
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Happiness: 0  
+- Low Kick  
+- Swagger  
+- Frustration  
+- Payback  
+
+Grovyle  
+Ability: Overgrow  
+Level: 17  
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- X-Scissor  
+- Energy Ball  
+- Quick Attack  
+- Aerial Ace  
 
 === TRAINER_MAXIE_MAGMA_HIDEOUT ===
 Name: MAXIE
@@ -14240,13 +14463,32 @@ Music: Female
 Double Battle: No
 AI: Basic Trainer
 
-Lotad
-Level: 13
-IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
+Luxio  
+Ability: Intimidate  
+Level: 15  
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Bite  
+- Spark  
+- Volt Switch  
+- Fire Fang  
 
-Torchic
-Level: 15
-IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
+Pawniard  
+Ability: Defiant  
+Level: 16  
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Fury Cutter  
+- Metal Claw  
+- Low Kick  
+- Cut  
+
+Combusken  
+Ability: Blaze  
+Level: 17  
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe 
+- Double Kick  
+- Flame Charge  
+- Pluck  
+- Quick Attack  
 
 === TRAINER_MAY_RUSTBORO_TORCHIC ===
 Name: MAY
@@ -14257,13 +14499,32 @@ Music: Female
 Double Battle: No
 AI: Basic Trainer
 
-Torkoal
-Level: 13
-IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
+Snubbull  
+Ability: Intimidate  
+Level: 15  
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Covet  
+- Thunder Fang  
+- Fire Fang  
+- Ice Fang  
 
-Mudkip
-Level: 15
-IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
+Applin  
+Ability: Ripen  
+Level: 16  
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe 
+- Dragon Breath  
+- Mega Drain  
+- Leech Seed  
+- Draco Meteor  
+
+Marshtomp  
+Ability: Torrent  
+Level: 17  
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Mud Shot  
+- Rock Throw  
+- Water Pulse  
+- Yawn  
 
 === TRAINER_ROXANNE_2 ===
 Name: ROXANNE
