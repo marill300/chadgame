@@ -3387,20 +3387,18 @@ Music: Intense
 Double Battle: No
 AI: Check Bad Move
 
-Electrike
-Level: 17
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Quick Attack
-- Thunder Wave
-- Spark
-- Leer
+Pelipper
+Level: 31
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
-Voltorb
-Level: 17
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Charge
-- Shock Wave
-- Screech
+
+Brionne
+Level: 31
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Water Pulse
+- Hyper Voice
+- Aurora Beam
+- Draining Kiss
 
 === TRAINER_GRUNT_AQUA_HIDEOUT_7 ===
 Name: GRUNT
@@ -3441,13 +3439,13 @@ Music: Intense
 Double Battle: No
 AI: Check Bad Move
 
-Voltorb
-Level: 17
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+Milotic
+Level: 31
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
-Magnemite
-Level: 17
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+Politoed
+Level: 32
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_FERNANDO_1 ===
 Name: FERNANDO
@@ -4913,41 +4911,48 @@ Class: Leader
 Pic: Leader Wattson
 Gender: Male
 Music: Male
-Items: Super Potion / Super Potion
-Double Battle: No
+Double Battle: Yes
 AI: Basic Trainer
 
-Voltorb
-Level: 20
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Rollout
-- Spark
-- Self Destruct
-- Shock Wave
+Tatsugiri
+Level: 33
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Muddy Water
+- Dragon Pulse
+- Icy Wind
+- Helping Hand
 
-Electrike
-Level: 20
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Shock Wave
-- Leer
-- Quick Attack
-- Howl
+Dondozo
+Level: 33
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Aqua Tail
+- Body Slam
+- Heavy Slam
+- Order Up
 
-Magneton
-Level: 22
-IVs: 26 HP / 26 Atk / 26 Def / 26 SpA / 26 SpD / 26 Spe
-- Supersonic
-- Shock Wave
-- Thunder Wave
-- Sonic Boom
+Floatzel
+Level: 34
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Ice Fang
+- Liquidation
+- Crunch
+- Rock Slide
 
-Manectric @ Sitrus Berry
-Level: 24
-IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Quick Attack
-- Thunder Wave
-- Shock Wave
-- Howl
+Ludicolo
+Level: 34
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Energy Ball
+- Surf
+- Icy Wind
+- Teeter Dance
+
+Vaporeon
+Level: 35
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Muddy Water
+- Calm Mind
+- Shadow Ball
+- Icy Wind
 
 === TRAINER_FLANNERY_1 ===
 Name: FLANNERY
@@ -6078,21 +6083,13 @@ Music: Male
 Double Battle: No
 AI: Check Bad Move
 
-Zigzagoon
-Level: 17
-IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
-- Headbutt
-- Sand Attack
-- Growl
-- Thunderbolt
+Drednaw
+Level: 31
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
-Gulpin
-Level: 17
-IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
-- Amnesia
-- Sludge
-- Yawn
-- Pound
+Gyarados
+Level: 31
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_QUINCY ===
 Name: QUINCY
@@ -12201,21 +12198,18 @@ Music: Intense
 Double Battle: No
 AI: Check Bad Move
 
-Meditite
-Level: 17
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Bide
-- Detect
-- Confusion
-- Thunder Punch
+Quaxwell
+Level: 31
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
-Meditite
-Level: 17
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Thunder Punch
-- Detect
-- Confusion
-- Meditate
+
+Poliwrath
+Level: 31
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Ice Punch
+- Body Slam
+- Waterfall
+- Bulk Up
 
 === TRAINER_DANIELLE ===
 Name: DANIELLE
@@ -16199,19 +16193,13 @@ Music: Suspicious
 Double Battle: No
 AI: Basic Trainer
 
-Illumise
-Level: 17
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Shock Wave
-- Quick Attack
-- Charm
+Masquerain
+Level: 31
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
-Volbeat
-Level: 17
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Shock Wave
-- Quick Attack
-- Confuse Ray
+Araquanid
+Level: 31
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_DARIUS ===
 Name: DARIUS
