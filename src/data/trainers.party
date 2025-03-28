@@ -4825,6 +4825,7 @@ AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 Solrock
 Level: 14
 Ability: Drought
+Tera Type: Fire
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Incinerate
 - Rock Tomb
