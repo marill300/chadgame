@@ -17227,13 +17227,21 @@ Tandemaus
 Level: 12
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
-Sneasel
+Sneasel  
+Ability: Inner Focus  
 Level: 13
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Icy Wind  
+- Pursuit  
+- Quick Attack  
+- Taunt
 
-Electrike
-Level: 12
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Electrike  
+Ability: Static  
+Level: 12  
+- Tackle  
+- Howl  
+- Thunder Shock  
+- Leer
 
 === TRAINER_LEAF ===
 Name: COLIN

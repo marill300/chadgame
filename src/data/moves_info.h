@@ -8759,9 +8759,9 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
         .name = COMPOUND_STRING("Howl"),
         .description = COMPOUND_STRING(
             "Howls to raise the spirit\n"
-            "and boosts Attack."),
+            "and boosts Speed."),
         .power = 0,
-        .effect = B_UPDATED_MOVE_DATA >= GEN_8 ? EFFECT_ATTACK_UP_USER_ALLY : EFFECT_ATTACK_UP,
+        .effect = B_UPDATED_MOVE_DATA >= GEN_8 ? EFFECT_ATTACK_UP_USER_ALLY : EFFECT_SPEED_UP,
         .type = TYPE_NORMAL,
         .accuracy = 0,
         .pp = 40,
@@ -13386,9 +13386,9 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("Work Up"),
         .description = COMPOUND_STRING(
-            "The user is roused.\n"
+            "The user's team is roused.\n"
             "Ups Attack and Sp. Atk."),
-        .effect = EFFECT_ATTACK_SPATK_UP,
+        .effect = MOVE_EFFECT_RAISE_TEAM_ATTACK,
         .power = 0,
         .type = TYPE_NORMAL,
         .accuracy = 0,
