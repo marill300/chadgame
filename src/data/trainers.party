@@ -4834,22 +4834,16 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 TAUROS_PALDEA_BLAZE
 Level: 13
+Ability: Intimidate
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Double Kick
 - Flame Charge
 - Headbutt
 - Pursuit
 
-Slugma 
-Level: 14
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Mud Shot 
-- Lava Plume 
-- Ancient Power
-- Clear Smog
-
 Charmeleon
 Level: 16
+Ability: Solar Power
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Nature: Adamant
 - Dragon Dance
