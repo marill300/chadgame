@@ -12348,12 +12348,44 @@ Class: Rival
 Pic: Wally
 Gender: Male
 Music: Male
-Double Battle: No
-AI: Basic Trainer
+Double Battle: Yes
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
-Ralts
-Level: 16
-IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
+Maushold
+Ability: Friend Guard
+Level: 33
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Hyper Voice
+- Helping Hand
+- Bullet Seed
+- Fake Out
+
+Vibrava
+Ability: Compound Eyes
+Level: 35
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Struggle Bug
+- Breaking Swipe
+- U Turn
+- Rock Slide
+
+Sneasel
+Ability: Inner Focus
+Level: 33
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Icy Wind
+- Fake Out
+- Ice Punch
+- Throat Chop
+
+Manectric
+Ability: Lightning Rod
+Level: 34
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Discharge
+- Snarl
+- Flame Burst
+- Charge Beam
 
 === TRAINER_WALLY_VR_2 ===
 Name: WALLY
