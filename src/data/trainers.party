@@ -235,6 +235,10 @@ Silicobra
 Level: 12
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
+Larvitar
+Level: 12
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+
 === TRAINER_MARCEL ===
 Name: MARCEL
 Class: Cooltrainer
@@ -2147,8 +2151,12 @@ Items: Full Restore
 Double Battle: Yes
 AI: Check Bad Move
 
-Poochyena @ Nugget
-Level: 11
+Poochyena 
+Level: 10
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+
+Pidgey  
+Level: 10
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_DAPHNE ===
@@ -2551,8 +2559,12 @@ Items: Full Restore
 Double Battle: Yes
 AI: Check Bad Move
 
-Phanpy @ Nugget
-Level: 12
+Phanpy 
+Level: 11
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+
+Sandygast
+Level: 11
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_MOLLIE ===
