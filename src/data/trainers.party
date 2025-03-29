@@ -4862,6 +4862,7 @@ AI: Basic Trainer
 
 Ariados
 Level: 22
+Ability: Insomnia
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Lunge
 - Shadow Sneak
@@ -4870,6 +4871,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Scyther
 Level: 22
+Ability: Technician
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Wing Attack
 - Bug Bite
@@ -4878,24 +4880,18 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Ledian 
 Level: 21
+Ability: Iron Fist
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - First Impression
 - Dual Wingbeat
 - Mach Punch
 - Thunder Punch
 
-Rabsca @ Sitrus Berry
-Level: 22
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Psybeam
-- Struggle Bug
-- Revival Blessing
-- Mud Shot
-
 Heracross @ Coba Berry
 Level: 23
+Ability: Moxie
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Rock Blast
+- Rock Slide
 - Bullet Seed
 - Pin Missile
 - Bulk Up
@@ -4911,6 +4907,7 @@ AI: Basic Trainer
 
 Tatsugiri
 Level: 33
+Ability: Commander
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Muddy Water
 - Dragon Pulse
@@ -4919,6 +4916,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Dondozo
 Level: 33
+Ability: Unaware
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Aqua Tail
 - Body Slam
@@ -4927,22 +4925,25 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Floatzel
 Level: 34
+Ability: Swift Swim
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Ice Fang
 - Liquidation
 - Crunch
 - Rock Slide
 
-Ludicolo
+Ludicolo @ Damp Rock 
 Level: 34
+Ability: Rain Dish
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Energy Ball
 - Surf
 - Icy Wind
-- Teeter Dance
+- Rain Dance
 
-Vaporeon
+Vaporeon @ Sitrus Berry
 Level: 35
+Ability: Hydration
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Muddy Water
 - Calm Mind
