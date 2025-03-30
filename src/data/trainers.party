@@ -334,6 +334,10 @@ Larvitar
 Level: 17
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
+Swinub
+Level: 17
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+
 === TRAINER_GRUNT_WEATHER_INST_1 ===
 Name: GRUNT
 Class: Team Aqua
@@ -3211,6 +3215,10 @@ Pinsir
 Level: 21
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
+Whirlipede
+Level: 21
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+
 === TRAINER_HITOSHI ===
 Name: HITOSHI
 Class: Black Belt
@@ -5200,6 +5208,10 @@ Corphish
 Level: 17
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
+Chinchou
+Level: 17
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+
 === TRAINER_TED ===
 Name: TED
 Class: School Kid
@@ -5316,6 +5328,10 @@ Double Battle: Yes
 AI: Check Bad Move
 
 Cutiefly
+Level: 14
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+
+Pichu
 Level: 14
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
@@ -5441,10 +5457,19 @@ AI: Check Bad Move
 Umbreon
 Level: 31
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Fake Tears
+- Snarl
+- Swift 
+- Helping Hand
 
 Espeon
 Level: 31
+Ability: Magic Bounce
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Reflect
+- Light Screen
+- Psybeam
+- Dazzling Gleam
 
 === TRAINER_ANNA_AND_MEG_2 ===
 Name: ANNA & MEG
@@ -5569,7 +5594,11 @@ Double Battle: Yes
 AI: Check Bad Move
 
 Vigoroth @ Oran Berry
-Level: 28
+Level: 26
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+
+Diggersby @ Oran Berry
+Level: 25
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_COLTON ===
@@ -6452,11 +6481,11 @@ Double Battle: Yes
 AI: Check Bad Move
 
 Clamperl
-Level: 20
+Level: 19
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
-Arrokuda
-Level: 20
+Omanyte
+Level: 19
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_DALE ===
@@ -6524,7 +6553,11 @@ Double Battle: Yes
 AI: Check Bad Move
 
 Gyarados
-Level: 31
+Level: 30
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+
+Lanturn
+Level: 30
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_CARTER ===
@@ -6872,11 +6905,11 @@ Double Battle: Yes
 AI: Check Bad Move
 
 Toedscool
-Level: 31
+Level: 30
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Dodrio
-Level: 31
+Level: 30
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_DYLAN_2 ===
@@ -9030,7 +9063,7 @@ Level: 22
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Timburr
-Level: 12
+Level: 22
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_EDMOND ===
@@ -10806,7 +10839,11 @@ Double Battle: Yes
 AI: Check Bad Move
 
 Masquerain
-Level: 21
+Level: 20
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+
+Trapinch
+Level: 20
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_LILITH ===
@@ -11403,7 +11440,11 @@ Double Battle: Yes
 AI: Check Bad Move
 
 Loudred
-Level: 18
+Level: 17
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+
+Jigglypuff
+Level: 17
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_VIVI ===
@@ -11865,6 +11906,10 @@ Double Battle: Yes
 AI: Check Bad Move
 
 Roggenrola
+Level: 14
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+
+Magby
 Level: 14
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
@@ -13413,6 +13458,10 @@ Hitmontop
 Level: 28
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
+Hawlucha
+Level: 28
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+
 === TRAINER_MARCOS ===
 Name: MARCOS
 Class: Guitarist
@@ -13469,6 +13518,10 @@ Maractus
 Level: 32
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
+Grotle
+Level: 31
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+
 === TRAINER_BIANCA ===
 Name: BIANCA
 Class: Picnicker
@@ -13482,6 +13535,10 @@ Thwackey
 Level: 32
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
+Corvisquire
+Level: 31
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+
 === TRAINER_HAYDEN ===
 Name: HAYDEN
 Class: Kindler
@@ -13493,6 +13550,10 @@ AI: Check Bad Move
 
 Raboot
 Level: 32
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+
+Drizzile
+Level: 31
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_SOPHIE ===
@@ -14271,6 +14332,10 @@ Double Battle: Yes
 AI: Check Bad Move
 
 Gardevoir
+Level: 30
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+
+Hattrem
 Level: 32
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
