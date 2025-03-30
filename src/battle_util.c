@@ -10734,18 +10734,7 @@ static inline uq4_12_t CalcTypeEffectivenessMultiplierInternal(u32 move, u32 mov
             RecordAbilityBattle(battlerDef, ABILITY_LEVITATE);
         }
     }
-    else if (moveType == TYPE_WATER )
-    {
-        modifier = UQ_4_12(0.0);
-        if (recordAbilities && defAbility == ABILITY_MAGMA_ARMOR)
-        {
-            gBattleStruct->moveResultFlags[battlerDef] |= (MOVE_RESULT_MISSED | MOVE_RESULT_DOESNT_AFFECT_FOE);
-            gLastUsedAbility = ABILITY_MAGMA_ARMOR;
-            gLastLandedMoves[battlerDef] = 0;
-            gBattleStruct->missStringId[battlerDef] = B_MSG_WATER_MISS;
-            RecordAbilityBattle(battlerDef, ABILITY_MAGMA_ARMOR);
-        }
-    }
+   
     else if (B_SHEER_COLD_IMMUNITY >= GEN_7 && move == MOVE_SHEER_COLD && IS_BATTLER_OF_TYPE(battlerDef, TYPE_ICE))
     {
         modifier = UQ_4_12(0.0);
