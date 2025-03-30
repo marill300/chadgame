@@ -6089,8 +6089,12 @@ Music: Male
 Double Battle: Yes
 AI: Check Bad Move
 
+Growlithe
+Level: 14
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+
 Heatmor
-Level: 15
+Level: 13
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_JOEY ===
