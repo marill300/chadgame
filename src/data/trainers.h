@@ -43154,8 +43154,8 @@ F_TRAINER_FEMALE |
 #line 17313
                 MOVE_ICY_WIND,
                 MOVE_PURSUIT,
-                MOVE_QUICK_ATTACK,
-                MOVE_TAUNT,
+                MOVE_ICE_SHARD,
+                MOVE_FAKE_OUT,
             },
             },
             {
