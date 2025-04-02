@@ -705,7 +705,7 @@
               {
                 "min_level": 13,
                 "max_level": 14,
-                "species": "SPECIES_TYROGUE"
+                "species": "SPECIES_ELEKID"
               },
               {
                 "min_level": 13,
@@ -745,12 +745,12 @@
               {
                 "min_level": 14,
                 "max_level": 15,
-                "species": "SPECIES_SAWK"
+                "species": "SPECIES_ROSELIA"
               },
               {
                 "min_level": 14,
                 "max_level": 16,
-                "species": "SPECIES_THROH"
+                "species": "SPECIES_CROAGUNK"
               },
               {
                 "min_level": 14,
