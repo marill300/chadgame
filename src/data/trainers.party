@@ -88,7 +88,7 @@ Pic: Hiker
 Gender: Male
 Music: Hiker
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Geodude
 Level: 21
@@ -247,7 +247,7 @@ Gender: Male
 Music: Cool
 Items: Hyper Potion
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Manectric
 Level: 29
@@ -537,7 +537,7 @@ Pic: Expert M
 Gender: Male
 Music: Intense
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Makuhita
 Level: 30
@@ -555,7 +555,7 @@ Gender: Male
 Music: Aqua
 Items: Super Potion
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Mightyena
 Level: 34
@@ -585,7 +585,7 @@ Pic: Aqua Admin F
 Gender: Female
 Music: Aqua
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Carvanha
 Level: 28
@@ -602,7 +602,7 @@ Pic: Aqua Admin F
 Gender: Female
 Music: Aqua
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Sharpedo
 Level: 37
@@ -620,7 +620,7 @@ Gender: Male
 Music: Aqua
 Items: Super Potion / Super Potion
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Mightyena
 Level: 41
@@ -693,7 +693,7 @@ Gender: Male
 Music: Cool
 Items: Full Restore
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Medicham
 Level: 43
@@ -1298,7 +1298,7 @@ Gender: Male
 Music: Cool
 Items: Hyper Potion
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Swellow
 Level: 26
@@ -1315,7 +1315,7 @@ Gender: Male
 Music: Cool
 Items: Hyper Potion
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Spinda
 Level: 26
@@ -1332,7 +1332,7 @@ Gender: Male
 Music: Cool
 Items: Hyper Potion
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Slakoth @ Sitrus Berry
 Level: 26
@@ -1349,7 +1349,7 @@ Gender: Male
 Music: Cool
 Items: Hyper Potion
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Vigoroth
 Level: 26
@@ -1365,7 +1365,7 @@ Gender: Male
 Music: Cool
 Items: Hyper Potion
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Swellow
 Level: 28
@@ -1415,7 +1415,7 @@ Gender: Male
 Music: Cool
 Items: Full Restore
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Sableye
 Level: 44
@@ -1437,7 +1437,7 @@ Gender: Male
 Music: Cool
 Items: Full Restore
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Mawile
 Level: 46
@@ -1455,7 +1455,7 @@ Gender: Male
 Music: Cool
 Items: Super Potion
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Electrike
 Level: 17
@@ -1477,7 +1477,7 @@ Gender: Male
 Music: Cool
 Items: Full Restore
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Cacturne
 Level: 43
@@ -1495,7 +1495,7 @@ Gender: Male
 Music: Cool
 Items: Full Restore
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Magneton
 Level: 43
@@ -1513,7 +1513,7 @@ Gender: Male
 Music: Cool
 Items: Full Restore
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Swellow
 Level: 42
@@ -1535,7 +1535,7 @@ Gender: Male
 Music: Cool
 Items: Full Restore
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Dodrio
 Level: 42
@@ -1561,7 +1561,7 @@ Gender: Male
 Music: Cool
 Items: Full Restore
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Kecleon
 Level: 42
@@ -1583,7 +1583,7 @@ Gender: Male
 Music: Cool
 Items: Hyper Potion
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Electrike
 Level: 26
@@ -1605,7 +1605,7 @@ Gender: Male
 Music: Cool
 Items: Hyper Potion
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Manectric
 Level: 29
@@ -1627,7 +1627,7 @@ Gender: Male
 Music: Cool
 Items: Full Restore
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Manectric
 Level: 32
@@ -1649,7 +1649,7 @@ Gender: Male
 Music: Cool
 Items: Full Restore
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Manectric
 Level: 35
@@ -1671,7 +1671,7 @@ Gender: Male
 Music: Cool
 Items: Full Restore
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Graveler
 Level: 33
@@ -1689,7 +1689,7 @@ Gender: Female
 Music: Cool
 Items: Hyper Potion
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Delcatty
 Level: 26
@@ -1705,7 +1705,7 @@ Gender: Female
 Music: Cool
 Items: Hyper Potion
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Wigglytuff
 Level: 26
@@ -1790,7 +1790,7 @@ Gender: Female
 Music: Cool
 Items: Super Potion
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Wingull
 Level: 17
@@ -1812,7 +1812,7 @@ Gender: Female
 Music: Cool
 Items: Full Restore
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Sableye
 Level: 30
@@ -1826,7 +1826,7 @@ Gender: Female
 Music: Cool
 Items: Full Restore
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Roselia
 Level: 45
@@ -1840,7 +1840,7 @@ Gender: Female
 Music: Cool
 Items: Full Restore
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Claydol
 Level: 45
@@ -1854,7 +1854,7 @@ Gender: Female
 Music: Cool
 Items: Full Restore
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Torkoal
 Level: 42
@@ -1876,7 +1876,7 @@ Gender: Female
 Music: Cool
 Items: Full Restore
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Skarmory
 Level: 43
@@ -1894,7 +1894,7 @@ Gender: Female
 Music: Cool
 Items: Full Restore
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Sandslash
 Level: 42
@@ -1916,7 +1916,7 @@ Gender: Female
 Music: Cool
 Items: Hyper Potion
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Wingull
 Level: 26
@@ -1938,7 +1938,7 @@ Gender: Female
 Music: Cool
 Items: Hyper Potion
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Pelipper
 Level: 29
@@ -1960,7 +1960,7 @@ Gender: Female
 Music: Cool
 Items: Full Restore
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Pelipper
 Level: 32
@@ -1982,7 +1982,7 @@ Gender: Female
 Music: Cool
 Items: Full Restore
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Pelipper
 Level: 34
@@ -4637,7 +4637,7 @@ Gender: Male
 Music: Elite Four
 Items: Full Restore / Full Restore
 Double Battle: Yes
-AI: Basic Trainer / Force Setup First Turn
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE / Force Setup First Turn
 Mugshot: Purple
 
 Mightyena
@@ -4688,7 +4688,7 @@ Gender: Female
 Music: Elite Four
 Items: Full Restore / Full Restore
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 Mugshot: Green
 
 Dusclops
@@ -4739,7 +4739,7 @@ Gender: Female
 Music: Elite Four
 Items: Full Restore / Full Restore
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 Mugshot: Pink
 
 Sealeo
@@ -4790,7 +4790,7 @@ Gender: Male
 Music: Elite Four
 Items: Full Restore / Full Restore
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 Mugshot: Blue
 
 Shelgon
@@ -4877,7 +4877,7 @@ Pic: Leader Brawly
 Gender: Male
 Music: Male
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Ariados
 Level: 22
@@ -4926,7 +4926,7 @@ Pic: Leader Wattson
 Gender: Male
 Music: Male
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Tatsugiri
 Level: 33
@@ -4976,7 +4976,7 @@ Gender: Female
 Music: Female
 Items: Hyper Potion / Hyper Potion
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Numel
 Level: 24
@@ -5018,7 +5018,7 @@ Gender: Male
 Music: Male
 Items: Hyper Potion / Hyper Potion
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Spinda
 Level: 27
@@ -5060,7 +5060,7 @@ Gender: Female
 Music: Female
 Items: Hyper Potion / Hyper Potion
 Double Battle: Yes
-AI: Basic Trainer / Risky
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE / Risky
 
 Swablu
 Level: 29
@@ -5110,7 +5110,7 @@ Gender: Male
 Music: Female
 Items: Hyper Potion / Hyper Potion / Hyper Potion / Hyper Potion
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Claydol
 Level: 41
@@ -5152,7 +5152,7 @@ Gender: Male
 Music: Male
 Items: Hyper Potion / Hyper Potion
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Luvdisc
 Level: 41
@@ -5848,7 +5848,7 @@ Pic: Expert M
 Gender: Male
 Music: Intense
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Hariyama
 Level: 27
@@ -5861,7 +5861,7 @@ Pic: Expert M
 Gender: Male
 Music: Intense
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Hariyama
 Level: 33
@@ -5878,7 +5878,7 @@ Pic: Expert M
 Gender: Male
 Music: Intense
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Hariyama
 Level: 36
@@ -5895,7 +5895,7 @@ Pic: Expert M
 Gender: Male
 Music: Intense
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Hariyama
 Level: 39
@@ -5912,7 +5912,7 @@ Pic: Expert M
 Gender: Male
 Music: Intense
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Hariyama
 Level: 42
@@ -5929,7 +5929,7 @@ Pic: Expert F
 Gender: Female
 Music: Intense
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Meditite
 Level: 18
@@ -5946,7 +5946,7 @@ Pic: Expert F
 Gender: Female
 Music: Intense
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Meditite
 Level: 21
@@ -5963,7 +5963,7 @@ Pic: Expert F
 Gender: Female
 Music: Intense
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Meditite
 Level: 30
@@ -5980,7 +5980,7 @@ Pic: Expert F
 Gender: Female
 Music: Intense
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Medicham
 Level: 33
@@ -5997,7 +5997,7 @@ Pic: Expert F
 Gender: Female
 Music: Intense
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Medicham
 Level: 36
@@ -6014,7 +6014,7 @@ Pic: Expert F
 Gender: Female
 Music: Intense
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Medicham
 Level: 39
@@ -6138,7 +6138,7 @@ Gender: Male
 Music: Cool
 Items: Full Restore
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Slaking
 Level: 43
@@ -6164,7 +6164,7 @@ Gender: Female
 Music: Cool
 Items: Full Restore
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Gardevoir
 Level: 43
@@ -6339,7 +6339,7 @@ Gender: Male
 Music: Male
 Items: Full Restore / Full Restore / Full Restore / Full Restore
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 Mugshot: Yellow
 
 Wailord
@@ -9309,7 +9309,7 @@ Gender: Female
 Music: Cool
 Items: Hyper Potion
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Absol
 Level: 27
@@ -9322,7 +9322,7 @@ Pic: Ninja Boy
 Gender: Male
 Music: Suspicious
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Koffing
 Level: 31
@@ -9391,7 +9391,7 @@ Gender: Female
 Music: Cool
 Items: Hyper Potion
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Manectric
 Level: 34
@@ -9579,7 +9579,7 @@ Gender: Male
 Music: Male
 Items: Full Restore / Full Restore
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Altaria
 Level: 44
@@ -9628,7 +9628,7 @@ Pic: Brendan
 Gender: Male
 Music: Male
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Treecko
 Level: 5
@@ -9641,7 +9641,7 @@ Pic: Brendan
 Gender: Male
 Music: Male
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Growlithe  
 Ability: Intimidate  
@@ -9686,7 +9686,7 @@ Pic: Brendan
 Gender: Male
 Music: Male
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Slugma
 Level: 29
@@ -9720,7 +9720,7 @@ Pic: Brendan
 Gender: Male
 Music: Male
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Luxio  
 Ability: Intimidate  
@@ -9765,7 +9765,7 @@ Pic: Brendan
 Gender: Male
 Music: Male
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Pelipper
 Level: 29
@@ -9786,7 +9786,7 @@ Pic: Brendan
 Gender: Male
 Music: Male
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Mudkip
 Level: 5
@@ -9799,7 +9799,7 @@ Pic: Brendan
 Gender: Male
 Music: Male
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Granbull  
 Ability: Intimidate  
@@ -9844,7 +9844,7 @@ Pic: Brendan
 Gender: Male
 Music: Male
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Lombre
 Level: 29
@@ -9865,7 +9865,7 @@ Pic: May
 Gender: Female
 Music: Female
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Treecko
 Level: 5
@@ -9878,7 +9878,7 @@ Pic: May
 Gender: Female
 Music: Female
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Growlithe  
 Ability: Intimidate  
@@ -9923,7 +9923,7 @@ Pic: May
 Gender: Female
 Music: Female
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Slugma
 Level: 29
@@ -9944,7 +9944,7 @@ Pic: May
 Gender: Female
 Music: Female
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Torchic
 Level: 5
@@ -9957,7 +9957,7 @@ Pic: May
 Gender: Female
 Music: Female
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Luxio  
 Ability: Intimidate  
@@ -10002,7 +10002,7 @@ Pic: May
 Gender: Female
 Music: Female
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Pelipper
 Level: 29
@@ -10023,7 +10023,7 @@ Pic: May
 Gender: Female
 Music: Female
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Mudkip
 Level: 5
@@ -10036,7 +10036,7 @@ Pic: May
 Gender: Female
 Music: Female
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Granbull  
 Ability: Intimidate  
@@ -10081,7 +10081,7 @@ Pic: May
 Gender: Female
 Music: Female
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Lombre
 Level: 29
@@ -10148,7 +10148,7 @@ Pic: Cooltrainer M
 Gender: Male
 Music: Cool
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Lunatone
 Level: 43
@@ -10339,7 +10339,7 @@ Gender: Female
 Music: Cool
 Items: Full Restore
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Sableye
 Level: 43
@@ -10502,7 +10502,7 @@ Gender: Male
 Music: Cool
 Items: Full Restore
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Breloom
 Level: 27
@@ -10516,7 +10516,7 @@ Gender: Male
 Music: Cool
 Items: Full Restore
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Seedot
 Level: 28
@@ -10538,7 +10538,7 @@ Gender: Male
 Music: Cool
 Items: Full Restore
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Cacturne
 Level: 39
@@ -10566,7 +10566,7 @@ Gender: Male
 Music: Cool
 Items: Full Restore
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Breloom
 Level: 34
@@ -10594,7 +10594,7 @@ Gender: Male
 Music: Cool
 Items: Full Restore
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Kecleon
 Level: 39
@@ -10652,7 +10652,7 @@ Gender: Female
 Music: Cool
 Items: Full Restore
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Swablu
 Level: 38
@@ -10688,7 +10688,7 @@ Gender: Female
 Music: Cool
 Items: Full Restore
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Gloom
 Level: 33
@@ -10724,7 +10724,7 @@ Gender: Female
 Music: Cool
 Items: Full Restore
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Bellossom
 Level: 39
@@ -10917,7 +10917,7 @@ Gender: Female
 Music: Cool
 Items: Hyper Potion
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Manectric
 Level: 32
@@ -11199,7 +11199,7 @@ Pic: Expert M
 Gender: Male
 Music: Intense
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Swellow
 Level: 33
@@ -11246,7 +11246,7 @@ Pic: Magma Admin
 Gender: Male
 Music: Magma
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Numel
 Level: 18
@@ -11289,7 +11289,7 @@ Pic: Brendan
 Gender: Male
 Music: Male
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Snubbull  
 Ability: Intimidate  
@@ -11363,7 +11363,7 @@ Gender: Male
 Music: Magma
 Items: Super Potion / Super Potion
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Mightyena
 Level: 37
@@ -11385,7 +11385,7 @@ Gender: Male
 Music: Magma
 Items: Super Potion / Super Potion
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Mightyena
 Level: 24
@@ -11457,7 +11457,7 @@ Pic: Lass
 Gender: Female
 Music: Female
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Marill
 Level: 15
@@ -12234,7 +12234,7 @@ Gender: Male
 Music: Cool
 Items: Hyper Potion
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Kecleon
 Level: 23
@@ -12449,7 +12449,7 @@ Gender: Male
 Music: Male
 Items: Full Restore / Full Restore
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Altaria
 Level: 47
@@ -12499,7 +12499,7 @@ Gender: Male
 Music: Male
 Items: Full Restore / Full Restore
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Altaria
 Level: 50
@@ -12549,7 +12549,7 @@ Gender: Male
 Music: Male
 Items: Full Restore / Full Restore
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Altaria
 Level: 53
@@ -12599,7 +12599,7 @@ Gender: Male
 Music: Male
 Items: Full Restore / Full Restore
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Altaria
 Level: 56
@@ -12648,7 +12648,7 @@ Pic: Brendan
 Gender: Male
 Music: Male
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Tropius
 Level: 31
@@ -12673,7 +12673,7 @@ Pic: Brendan
 Gender: Male
 Music: Male
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Tropius
 Level: 31
@@ -12698,7 +12698,7 @@ Pic: Brendan
 Gender: Male
 Music: Male
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Tropius
 Level: 31
@@ -12723,7 +12723,7 @@ Pic: May
 Gender: Female
 Music: Female
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Tropius
 Level: 31
@@ -12748,7 +12748,7 @@ Pic: May
 Gender: Female
 Music: Female
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Tropius
 Level: 31
@@ -12773,7 +12773,7 @@ Pic: May
 Gender: Female
 Music: Female
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Tropius
 Level: 31
@@ -12858,7 +12858,7 @@ Gender: Female
 Music: Cool
 Items: Full Restore
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Gloom
 Level: 34
@@ -12876,7 +12876,7 @@ Gender: Male
 Music: Cool
 Items: Hyper Potion
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Shiftry
 Level: 34
@@ -13066,7 +13066,7 @@ Pic: Old Couple
 Gender: Male
 Music: Intense
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Medicham
 Level: 39
@@ -13091,7 +13091,7 @@ Pic: Old Couple
 Gender: Male
 Music: Intense
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Medicham
 Level: 43
@@ -13116,7 +13116,7 @@ Pic: Old Couple
 Gender: Male
 Music: Intense
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Medicham
 Level: 46
@@ -13166,7 +13166,7 @@ Pic: Old Couple
 Gender: Male
 Music: Intense
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Medicham
 Level: 52
@@ -13940,7 +13940,7 @@ Gender: Female
 Music: Cool
 Items: Hyper Potion
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Pelipper
 Level: 33
@@ -13957,7 +13957,7 @@ Pic: Magma Leader Maxie
 Gender: Male
 Music: Magma
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Mightyena
 Level: 42
@@ -14073,7 +14073,7 @@ Gender: Female
 Music: Cool
 Items: Hyper Potion
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Manectric
 Level: 24
@@ -14367,7 +14367,7 @@ Gender: Female
 Music: Intense
 Items: Hyper Potion
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Roselia
 Level: 33
@@ -14428,7 +14428,7 @@ Gender: Male
 Music: Cool
 Items: Hyper Potion
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Manectric
 Level: 30
@@ -14545,7 +14545,7 @@ Gender: Female
 Music: Cool
 Items: Hyper Potion
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Loudred
 Level: 29
@@ -14562,7 +14562,7 @@ Pic: May
 Gender: Female
 Music: Female
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Luxio  
 Ability: Intimidate  
@@ -14598,7 +14598,7 @@ Pic: May
 Gender: Female
 Music: Female
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Snubbull  
 Ability: Intimidate  
@@ -14635,7 +14635,7 @@ Gender: Female
 Music: Female
 Items: Full Restore / Full Restore / Full Restore
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Golem
 Level: 32
@@ -14677,7 +14677,7 @@ Gender: Female
 Music: Female
 Items: Full Restore / Full Restore / Full Restore
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Omanyte
 Level: 37
@@ -14727,7 +14727,7 @@ Gender: Female
 Music: Female
 Items: Full Restore / Full Restore / Full Restore
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Omastar
 Level: 42
@@ -14777,7 +14777,7 @@ Gender: Female
 Music: Female
 Items: Full Restore / Full Restore / Full Restore
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Aerodactyl
 Level: 47
@@ -14835,7 +14835,7 @@ Gender: Male
 Music: Male
 Items: Full Restore / Full Restore / Full Restore
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Machamp @ Sitrus Berry
 Level: 33
@@ -14877,7 +14877,7 @@ Gender: Male
 Music: Male
 Items: Full Restore / Full Restore / Full Restore
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Machamp @ Sitrus Berry
 Level: 38
@@ -14919,7 +14919,7 @@ Gender: Male
 Music: Male
 Items: Full Restore / Full Restore / Full Restore
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Hitmonchan
 Level: 40
@@ -14969,7 +14969,7 @@ Gender: Male
 Music: Male
 Items: Full Restore / Full Restore / Full Restore
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Hitmonlee
 Level: 46
@@ -15027,7 +15027,7 @@ Gender: Male
 Music: Male
 Items: Full Restore / Full Restore / Full Restore
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Mareep
 Level: 36
@@ -15069,7 +15069,7 @@ Gender: Male
 Music: Male
 Items: Full Restore / Full Restore / Full Restore
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Pikachu
 Level: 39
@@ -15119,7 +15119,7 @@ Gender: Male
 Music: Male
 Items: Full Restore / Full Restore / Full Restore
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Raichu
 Level: 44
@@ -15169,7 +15169,7 @@ Gender: Male
 Music: Male
 Items: Full Restore / Full Restore / Full Restore
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Electabuzz
 Level: 50
@@ -15227,7 +15227,7 @@ Gender: Female
 Music: Female
 Items: Full Restore / Full Restore / Full Restore
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Magcargo @ White Herb
 Level: 38
@@ -15269,7 +15269,7 @@ Gender: Female
 Music: Female
 Items: Full Restore / Full Restore / Full Restore
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Growlithe
 Level: 41
@@ -15319,7 +15319,7 @@ Gender: Female
 Music: Female
 Items: Full Restore / Full Restore / Full Restore
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Houndour
 Level: 46
@@ -15377,7 +15377,7 @@ Gender: Female
 Music: Female
 Items: Full Restore / Full Restore / Full Restore
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Arcanine
 Level: 51
@@ -15435,7 +15435,7 @@ Gender: Male
 Music: Male
 Items: Full Restore / Full Restore / Full Restore
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Chansey
 Level: 42
@@ -15477,7 +15477,7 @@ Gender: Male
 Music: Male
 Items: Full Restore / Full Restore / Full Restore
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Slaking @ Sitrus Berry
 Level: 47
@@ -15527,7 +15527,7 @@ Gender: Male
 Music: Male
 Items: Full Restore / Full Restore / Full Restore
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Slaking @ Sitrus Berry
 Level: 52
@@ -15577,7 +15577,7 @@ Gender: Male
 Music: Male
 Items: Full Restore / Full Restore / Full Restore
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Slaking @ Sitrus Berry
 Level: 57
@@ -15635,7 +15635,7 @@ Gender: Female
 Music: Female
 Items: Full Restore / Full Restore / Full Restore
 Double Battle: Yes
-AI: Basic Trainer / Risky
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE / Risky
 
 Dratini @ Sitrus Berry
 Level: 40
@@ -15685,7 +15685,7 @@ Gender: Female
 Music: Female
 Items: Full Restore / Full Restore / Full Restore
 Double Battle: Yes
-AI: Basic Trainer / Risky
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE / Risky
 
 Hoothoot
 Level: 43
@@ -15743,7 +15743,7 @@ Gender: Female
 Music: Female
 Items: Full Restore / Full Restore / Full Restore
 Double Battle: Yes
-AI: Basic Trainer / Risky
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE / Risky
 
 Noctowl
 Level: 48
@@ -15801,7 +15801,7 @@ Gender: Female
 Music: Female
 Items: Full Restore / Full Restore / Full Restore
 Double Battle: Yes
-AI: Basic Trainer / Risky
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE / Risky
 
 Noctowl
 Level: 53
@@ -15859,7 +15859,7 @@ Gender: Male
 Music: Female
 Items: Full Restore / Full Restore / Full Restore
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Slowpoke
 Level: 48
@@ -15909,7 +15909,7 @@ Gender: Male
 Music: Female
 Items: Full Restore / Full Restore / Full Restore
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Drowzee
 Level: 53
@@ -15967,7 +15967,7 @@ Gender: Male
 Music: Female
 Items: Full Restore / Full Restore / Full Restore
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Hypno
 Level: 58
@@ -16025,7 +16025,7 @@ Gender: Male
 Music: Female
 Items: Full Restore / Full Restore / Full Restore
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Hypno
 Level: 63
@@ -16083,7 +16083,7 @@ Gender: Male
 Music: Male
 Items: Full Restore / Full Restore / Full Restore
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Poliwag
 Level: 46
@@ -16133,7 +16133,7 @@ Gender: Male
 Music: Male
 Items: Full Restore / Full Restore / Full Restore
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Poliwhirl
 Level: 50
@@ -16183,7 +16183,7 @@ Gender: Male
 Music: Male
 Items: Full Restore / Full Restore / Full Restore
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Lapras
 Level: 56
@@ -16241,7 +16241,7 @@ Gender: Male
 Music: Male
 Items: Full Restore / Full Restore / Full Restore
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Lapras
 Level: 61
@@ -16298,7 +16298,7 @@ Pic: Bug Maniac
 Gender: Male
 Music: Suspicious
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Masquerain
 Level: 31
@@ -16315,7 +16315,7 @@ Pic: Bird Keeper
 Gender: Male
 Music: Cool
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Tropius
 Level: 30
@@ -16329,7 +16329,7 @@ Gender: Male
 Music: Male
 Items: Full Restore / Full Restore / Full Restore / Full Restore
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Skarmory
 Level: 77
@@ -16386,7 +16386,7 @@ Pic: Salon Maiden Anabel
 Gender: Female
 Music: Male
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Beldum
 Level: 5
@@ -16399,7 +16399,7 @@ Pic: Dome Ace Tucker
 Gender: Male
 Music: Male
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Beldum
 Level: 5
@@ -16412,7 +16412,7 @@ Pic: Palace Maven Spenser
 Gender: Male
 Music: Male
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Beldum
 Level: 5
@@ -16425,7 +16425,7 @@ Pic: Arena Tycoon Greta
 Gender: Female
 Music: Male
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Beldum
 Level: 5
@@ -16438,7 +16438,7 @@ Pic: Factory Head Noland
 Gender: Male
 Music: Male
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Beldum
 Level: 5
@@ -16451,7 +16451,7 @@ Pic: Pike Queen Lucy
 Gender: Female
 Music: Male
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Beldum
 Level: 5
@@ -16464,7 +16464,7 @@ Pic: Pyramid King Brandon
 Gender: Male
 Music: Male
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Beldum
 Level: 5
@@ -16802,7 +16802,7 @@ Gender: Female
 Music: Cool
 Items: Hyper Potion
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Loudred
 Level: 35
@@ -16820,7 +16820,7 @@ Gender: Female
 Music: Cool
 Items: Hyper Potion
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Spinda
 Level: 37
@@ -16842,7 +16842,7 @@ Gender: Female
 Music: Cool
 Items: Hyper Potion
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Spinda
 Level: 39
@@ -16864,7 +16864,7 @@ Gender: Female
 Music: Cool
 Items: Hyper Potion
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Spinda
 Level: 41
@@ -16969,7 +16969,7 @@ Pic: Hiker
 Gender: Male
 Music: Hiker
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Geodude
 Level: 26
@@ -16986,7 +16986,7 @@ Pic: Hiker
 Gender: Male
 Music: Hiker
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Machop
 Level: 28
@@ -17007,7 +17007,7 @@ Pic: Hiker
 Gender: Male
 Music: Hiker
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Machop
 Level: 30
@@ -17028,7 +17028,7 @@ Pic: Hiker
 Gender: Male
 Music: Hiker
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Machoke
 Level: 33
