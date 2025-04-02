@@ -3409,8 +3409,8 @@ AI: Check Bad Move
 
 Pelipper
 Level: 31
+Ability: Drizzle
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-
 
 Brionne
 Level: 31
@@ -3465,6 +3465,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Politoed
 Level: 32
+Ability: Drizzle 
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_FERNANDO_1 ===
@@ -12422,6 +12423,15 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Breaking Swipe
 - U Turn
 - Rock Slide
+
+Starmie
+Ability: Natural Cure
+Level: 34
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Surf
+- Icy Wind
+- Flip Turn
+- Dazzling Gleam
 
 Sneasel
 Ability: Inner Focus
