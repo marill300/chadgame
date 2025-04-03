@@ -2003,7 +2003,7 @@ const struct SpeciesInfo gSpeciesInfoGen3[] =
         .baseAttack    = 70,
         .baseDefense   = 70,
         .baseSpeed     = 70,
-        .baseSpAttack  = 90,
+        .baseSpAttack  = 100,
         .baseSpDefense = 100,
         .types = MON_TYPES(TYPE_WATER, TYPE_GRASS),
         .catchRate = 45,
@@ -2738,12 +2738,12 @@ const struct SpeciesInfo gSpeciesInfoGen3[] =
 
     [SPECIES_KIRLIA] =
     {
-        .baseHP        = 38,
+        .baseHP        = 48,
         .baseAttack    = 35,
         .baseDefense   = 35,
         .baseSpeed     = 50,
-        .baseSpAttack  = 65,
-        .baseSpDefense = 55,
+        .baseSpAttack  = 70,
+        .baseSpDefense = 65,
         .types = MON_TYPES(TYPE_PSYCHIC, RALTS_FAMILY_TYPE2),
         .catchRate = 120,
         .expYield = (P_UPDATED_EXP_YIELDS >= GEN_5) ? 97 : 140,

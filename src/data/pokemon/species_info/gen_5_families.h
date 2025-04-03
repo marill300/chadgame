@@ -6950,7 +6950,7 @@ const struct SpeciesInfo gSpeciesInfoGen5[] =
         .levelUpLearnset = sGothitaLevelUpLearnset,
         .teachableLearnset = sGothitaTeachableLearnset,
         .eggMoveLearnset = sGothitaEggMoveLearnset,
-        .evolutions = EVOLUTION({EVO_LEVEL, 32, SPECIES_GOTHORITA}),
+        .evolutions = EVOLUTION({EVO_LEVEL, 22, SPECIES_GOTHORITA}),
     },
 
     [SPECIES_GOTHORITA] =
@@ -6961,7 +6961,7 @@ const struct SpeciesInfo gSpeciesInfoGen5[] =
         .baseSpeed     = 55,
         .baseSpAttack  = 75,
         .baseSpDefense = 85,
-        .types = MON_TYPES(TYPE_PSYCHIC),
+        .types = MON_TYPES(TYPE_PSYCHIC, TYPE_DARK),
         .catchRate = 100,
         .expYield = 137,
         .evYield_SpDefense = 2,
@@ -8481,7 +8481,7 @@ const struct SpeciesInfo gSpeciesInfoGen5[] =
         .levelUpLearnset = sFoongusLevelUpLearnset,
         .teachableLearnset = sFoongusTeachableLearnset,
         .eggMoveLearnset = sFoongusEggMoveLearnset,
-        .evolutions = EVOLUTION({EVO_LEVEL, 39, SPECIES_AMOONGUSS}),
+        .evolutions = EVOLUTION({EVO_LEVEL, 34, SPECIES_AMOONGUSS}),
     },
 
     [SPECIES_AMOONGUSS] =
