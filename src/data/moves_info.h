@@ -8761,7 +8761,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
             "Howls to raise the spirit\n"
             "and boosts Speed."),
         .power = 0,
-        .effect = B_UPDATED_MOVE_DATA >= GEN_8 ? MOVE_EFFECT_RAISE_TEAM_SPEED : EFFECT_SPEED_UP,
+        .effect = EFFECT_ATTACK_UP_USER_ALLY,
         .type = TYPE_NORMAL,
         .accuracy = 0,
         .pp = 40,
@@ -13388,7 +13388,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
         .description = COMPOUND_STRING(
             "The user's team is roused.\n"
             "Ups Attack and Sp. Atk."),
-        .effect = MOVE_EFFECT_RAISE_TEAM_ATTACK,
+        .effect = EFFECT_ATTACK_UP,
         .power = 0,
         .type = TYPE_NORMAL,
         .accuracy = 0,
