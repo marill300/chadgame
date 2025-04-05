@@ -24089,14 +24089,14 @@ F_TRAINER_FEMALE |
         {
             {
 #line 9647
-            .species = SPECIES_GROWLITHE,
+            .species = SPECIES_ARCANINE,
             .gender = TRAINER_MON_RANDOM_GENDER,
 #line 9650
             .iv = TRAINER_PARTY_IVS(31, 31, 31, 31, 31, 31),
 #line 9648
             .ability = ABILITY_INTIMIDATE,
 #line 9649
-            .lvl = 27,
+            .lvl = 30,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
             .moves = {
@@ -24116,14 +24116,14 @@ F_TRAINER_FEMALE |
 #line 9657
             .ability = ABILITY_DEFIANT,
 #line 9658
-            .lvl = 28,
+            .lvl = 31,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
             .moves = {
 #line 9660
                 MOVE_CROSS_CHOP,
                 MOVE_ASSURANCE,
-                MOVE_LOW_KICK,
+                MOVE_ROCK_SLIDE,
                 MOVE_COUNTER,
             },
             },
@@ -24136,7 +24136,7 @@ F_TRAINER_FEMALE |
 #line 9666
             .ability = ABILITY_CLEAR_BODY,
 #line 9667
-            .lvl = 27,
+            .lvl = 30,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
             .moves = {
@@ -24156,7 +24156,7 @@ F_TRAINER_FEMALE |
 #line 9675
             .ability = ABILITY_OVERGROW,
 #line 9676
-            .lvl = 29,
+            .lvl = 32,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
             .moves = {
@@ -24276,14 +24276,14 @@ F_TRAINER_FEMALE |
         {
             {
 #line 9726
-            .species = SPECIES_LUXIO,
+            .species = SPECIES_LUXRAY,
             .gender = TRAINER_MON_RANDOM_GENDER,
 #line 9729
             .iv = TRAINER_PARTY_IVS(31, 31, 31, 31, 31, 31),
 #line 9727
             .ability = ABILITY_INTIMIDATE,
 #line 9728
-            .lvl = 27,
+            .lvl = 30,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
             .moves = {
@@ -24298,12 +24298,14 @@ F_TRAINER_FEMALE |
 #line 9735
             .species = SPECIES_PAWNIARD,
             .gender = TRAINER_MON_RANDOM_GENDER,
+#line 9735
+            .heldItem = ITEM_EVIOLITE,
 #line 9738
             .iv = TRAINER_PARTY_IVS(31, 31, 31, 31, 31, 31),
 #line 9736
             .ability = ABILITY_DEFIANT,
 #line 9737
-            .lvl = 28,
+            .lvl = 31,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
             .moves = {
@@ -24323,7 +24325,7 @@ F_TRAINER_FEMALE |
 #line 9745
             .ability = ABILITY_THERMAL_EXCHANGE,
 #line 9746
-            .lvl = 28,
+            .lvl = 31,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
             .moves = {
@@ -24343,7 +24345,7 @@ F_TRAINER_FEMALE |
 #line 9754
             .ability = ABILITY_BLAZE,
 #line 9755
-            .lvl = 29,
+            .lvl = 32,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
             .moves = {
@@ -24470,7 +24472,7 @@ F_TRAINER_FEMALE |
 #line 9806
             .ability = ABILITY_INTIMIDATE,
 #line 9807
-            .lvl = 27,
+            .lvl = 30,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
             .moves = {
@@ -24490,7 +24492,7 @@ F_TRAINER_FEMALE |
 #line 9815
             .ability = ABILITY_SUPERSWEET_SYRUP,
 #line 9816
-            .lvl = 28,
+            .lvl = 31,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
             .moves = {
@@ -24510,7 +24512,7 @@ F_TRAINER_FEMALE |
 #line 9824
             .ability = ABILITY_MARVEL_SCALE,
 #line 9825
-            .lvl = 28,
+            .lvl = 31,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
             .moves = {
@@ -24530,7 +24532,7 @@ F_TRAINER_FEMALE |
 #line 9833
             .ability = ABILITY_TORRENT,
 #line 9834
-            .lvl = 29,
+            .lvl = 32,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
             .moves = {
@@ -24538,7 +24540,7 @@ F_TRAINER_FEMALE |
                 MOVE_ROCK_SLIDE,
                 MOVE_BULLDOZE,
                 MOVE_LOW_KICK,
-                MOVE_WATER_PULSE,
+                MOVE_MUDDY_WATER,
             },
             },
         },
@@ -24654,14 +24656,14 @@ F_TRAINER_FEMALE |
         {
             {
 #line 9884
-            .species = SPECIES_GROWLITHE,
+            .species = SPECIES_ARCANINE,
             .gender = TRAINER_MON_RANDOM_GENDER,
 #line 9887
             .iv = TRAINER_PARTY_IVS(31, 31, 31, 31, 31, 31),
 #line 9885
             .ability = ABILITY_INTIMIDATE,
 #line 9886
-            .lvl = 27,
+            .lvl = 30,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
             .moves = {
@@ -24681,14 +24683,14 @@ F_TRAINER_FEMALE |
 #line 9894
             .ability = ABILITY_DEFIANT,
 #line 9895
-            .lvl = 28,
+            .lvl = 31,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
             .moves = {
 #line 9897
                 MOVE_CROSS_CHOP,
                 MOVE_ASSURANCE,
-                MOVE_LOW_KICK,
+                MOVE_ROCK_SLIDE,
                 MOVE_COUNTER,
             },
             },
@@ -24701,7 +24703,7 @@ F_TRAINER_FEMALE |
 #line 9903
             .ability = ABILITY_CLEAR_BODY,
 #line 9904
-            .lvl = 27,
+            .lvl = 31,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
             .moves = {
@@ -24721,7 +24723,7 @@ F_TRAINER_FEMALE |
 #line 9912
             .ability = ABILITY_OVERGROW,
 #line 9913
-            .lvl = 29,
+            .lvl = 32,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
             .moves = {
@@ -24847,14 +24849,14 @@ F_TRAINER_FEMALE |
         {
             {
 #line 9963
-            .species = SPECIES_LUXIO,
+            .species = SPECIES_LUXRAY,
             .gender = TRAINER_MON_RANDOM_GENDER,
 #line 9966
             .iv = TRAINER_PARTY_IVS(31, 31, 31, 31, 31, 31),
 #line 9964
             .ability = ABILITY_INTIMIDATE,
 #line 9965
-            .lvl = 27,
+            .lvl = 30,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
             .moves = {
@@ -24869,12 +24871,14 @@ F_TRAINER_FEMALE |
 #line 9972
             .species = SPECIES_PAWNIARD,
             .gender = TRAINER_MON_RANDOM_GENDER,
+#line 9972
+            .heldItem = ITEM_EVIOLITE,
 #line 9975
             .iv = TRAINER_PARTY_IVS(31, 31, 31, 31, 31, 31),
 #line 9973
             .ability = ABILITY_DEFIANT,
 #line 9974
-            .lvl = 28,
+            .lvl = 31,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
             .moves = {
@@ -24894,7 +24898,7 @@ F_TRAINER_FEMALE |
 #line 9982
             .ability = ABILITY_THERMAL_EXCHANGE,
 #line 9983
-            .lvl = 28,
+            .lvl = 31,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
             .moves = {
@@ -24914,7 +24918,7 @@ F_TRAINER_FEMALE |
 #line 9991
             .ability = ABILITY_BLAZE,
 #line 9992
-            .lvl = 29,
+            .lvl = 32,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
             .moves = {
@@ -25047,7 +25051,7 @@ F_TRAINER_FEMALE |
 #line 10043
             .ability = ABILITY_INTIMIDATE,
 #line 10044
-            .lvl = 27,
+            .lvl = 30,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
             .moves = {
@@ -25067,7 +25071,7 @@ F_TRAINER_FEMALE |
 #line 10052
             .ability = ABILITY_SUPERSWEET_SYRUP,
 #line 10053
-            .lvl = 28,
+            .lvl = 31,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
             .moves = {
@@ -25087,7 +25091,7 @@ F_TRAINER_FEMALE |
 #line 10061
             .ability = ABILITY_MARVEL_SCALE,
 #line 10062
-            .lvl = 28,
+            .lvl = 31,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
             .moves = {
@@ -25107,7 +25111,7 @@ F_TRAINER_FEMALE |
 #line 10070
             .ability = ABILITY_TORRENT,
 #line 10071
-            .lvl = 29,
+            .lvl = 32,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
             .moves = {
@@ -25115,7 +25119,7 @@ F_TRAINER_FEMALE |
                 MOVE_ROCK_SLIDE,
                 MOVE_BULLDOZE,
                 MOVE_LOW_KICK,
-                MOVE_WATER_PULSE,
+                MOVE_MUDDY_WATER,
             },
             },
         },
