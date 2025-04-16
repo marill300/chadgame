@@ -6028,7 +6028,7 @@ IVs: 29 HP / 29 Atk / 29 Def / 29 SpA / 29 SpD / 29 Spe
 === TRAINER_CALVIN_1 ===
 Name: CALVIN
 Class: Youngster
-Pic: Youngster
+Pic: Camper2
 Gender: Male
 Music: Male
 Double Battle: Yes
@@ -17336,7 +17336,7 @@ Level: 12
 === TRAINER_LEAF ===
 Name: COLIN
 Class: Rival
-Pic: Leaf
+Pic: Colin
 Gender: Female
 Music: Male
 Double Battle: Yes

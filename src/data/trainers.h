@@ -14938,7 +14938,7 @@ F_TRAINER_FEMALE |
 #line 6030
         .trainerClass = TRAINER_CLASS_YOUNGSTER,
 #line 6031
-        .trainerPic = TRAINER_PIC_YOUNGSTER,
+        .trainerPic = TRAINER_PIC_CAMPER2,
         .encounterMusic_gender =
 #line 6033
             TRAINER_ENCOUNTER_MUSIC_MALE,
@@ -43216,7 +43216,7 @@ F_TRAINER_FEMALE |
 #line 17338
         .trainerClass = TRAINER_CLASS_RIVAL,
 #line 17339
-        .trainerPic = TRAINER_PIC_LEAF,
+        .trainerPic = TRAINER_PIC_COLIN,
         .encounterMusic_gender =
 #line 17340
 F_TRAINER_FEMALE | 
