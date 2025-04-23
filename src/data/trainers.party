@@ -955,13 +955,21 @@ Music: Interviewer
 Double Battle: Yes
 AI: Check Bad Move
 
-Magnemite
-Level: 17
-IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
+Claydol
+Level: 35
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Gravity
+- Psychic
+- Follow Me
+- Earth Power
 
-Whismur
-Level: 17
-IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
+Flapple
+Level: 35
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Grav Apple
+- Acrobatics
+- Sucker Punch
+- Acid Spray
 
 === TRAINER_GABBY_AND_TY_2 ===
 Name: GABBY & TY
@@ -1457,17 +1465,17 @@ Items: Super Potion
 Double Battle: Yes
 AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
-Electrike
-Level: 17
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+Electabuzz
+Level: 37
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
-Wailmer
-Level: 17
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+Magmar
+Level: 37
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
-Makuhita
-Level: 17
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+Jynx
+Level: 37
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_EDGAR ===
 Name: EDGAR
@@ -1792,17 +1800,17 @@ Items: Super Potion
 Double Battle: Yes
 AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
-Wingull
-Level: 17
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+Yanma
+Level: 37
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
-Numel
-Level: 17
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+Tangela
+Level: 37
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
-Roselia
-Level: 17
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+Piloswine
+Level: 37
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_JENNIFER ===
 Name: JENNIFER
@@ -2671,8 +2679,16 @@ Music: Suspicious
 Double Battle: Yes
 AI: Check Bad Move
 
-Aron
-Level: 19
+Kangaskhan
+Level: 40
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+
+Zangoose
+Level: 40
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+
+Slowbro
+Level: 40
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_THALIA_1 ===
@@ -3381,9 +3397,13 @@ Music: Intense
 Double Battle: Yes
 AI: Check Bad Move
 
-Machop
-Level: 19
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+Machamp
+Level: 38
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+
+Hariyama
+Level: 38
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_ATSUSHI ===
 Name: ATSUSHI
@@ -3664,12 +3684,17 @@ Music: Hiker
 Double Battle: Yes
 AI: Check Bad Move
 
-Slugma
-Level: 18
+Magcargo
+Level: 40
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
-Wingull
-Level: 18
+Torkoal
+Ability: Drought
+Level: 40
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+
+Emboar
+Level: 40
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_BERNIE_2 ===
@@ -3799,8 +3824,12 @@ Music: Male
 Double Battle: Yes
 AI: Check Bad Move
 
-Nuzleaf
-Level: 18
+Gligar
+Level: 36
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+
+Hippowdon
+Level: 36
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_SHANE ===
@@ -3812,12 +3841,28 @@ Music: Male
 Double Battle: Yes
 AI: Check Bad Move
 
-Sandshrew
-Level: 18
+Dugtrio
+Level: 38
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
-Nuzleaf
-Level: 18
+Magneton
+Level: 38
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+
+Dodrio
+Level: 38
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+
+Wugtrio
+Level: 38
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+
+Barbaracle
+Level: 38
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+
+Exeggutor
+Level: 38
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_JUSTIN ===
@@ -3872,8 +3917,12 @@ Music: Male
 Double Battle: Yes
 AI: Check Bad Move
 
-Sandshrew
-Level: 18
+Sandslash_Alola
+Level: 35
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+
+Snover
+Level: 35
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_ETHAN_2 ===
@@ -6028,7 +6077,7 @@ IVs: 29 HP / 29 Atk / 29 Def / 29 SpA / 29 SpD / 29 Spe
 === TRAINER_CALVIN_1 ===
 Name: CALVIN
 Class: Youngster
-Pic: Camper2
+Pic: Youngster
 Gender: Male
 Music: Male
 Double Battle: Yes
@@ -6192,8 +6241,16 @@ Music: Male
 Double Battle: Yes
 AI: Check Bad Move
 
-Trapinch
-Level: 19
+Hakamo-o
+Level: 37
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+
+Pupitar
+Level: 37
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+
+Charizard
+Level: 37
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_DILLON ===
@@ -6205,8 +6262,12 @@ Music: Male
 Double Battle: Yes
 AI: Check Bad Move
 
-Aron
-Level: 19
+Bibarel
+Level: 39
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+
+Obstagoon
+Level: 39
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_CALVIN_2 ===
@@ -6442,16 +6503,16 @@ Music: Hiker
 Double Battle: Yes
 AI: Check Bad Move
 
-Magikarp
-Level: 16
+Sliggoo
+Level: 39
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
-Goldeen
-Level: 17
+Dragonair
+Level: 39
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
-Barboach
-Level: 18
+Eelektrik
+Level: 39
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_ELLIOT_1 ===
@@ -6526,8 +6587,12 @@ Music: Hiker
 Double Battle: Yes
 AI: Check Bad Move
 
-Barboach
-Level: 19
+Bruxish
+Level: 39
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+
+Araquanid
+Level: 39
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_BARNY ===
@@ -7753,29 +7818,29 @@ Gender: Male
 Music: Suspicious
 Double Battle: Yes
 
-Koffing
-Level: 17
+Ninjask
+Level: 38
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Poison Gas
-- Tackle
-- Smog
-- Self Destruct
+- Detect
+- Leech Life
+- swords Dance
+- Baton Pass
 
-Koffing
-Level: 17
+Greninja
+Level: 38
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Poison Gas
-- Tackle
-- Smog
-- Self Destruct
+- Water Shuriken
+- Dark Pulse
+- Extrasensory
+- Knock Off
 
-Koffing
-Level: 17
+Shedinja
+Level: 38
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Poison Gas
-- Tackle
-- Sludge
-- Self Destruct
+- Shadow Sneak
+- X-Scissor
+- Dig
+- Aerial Ace
 
 === TRAINER_LUNG ===
 Name: LUNG
@@ -7785,13 +7850,28 @@ Gender: Male
 Music: Suspicious
 Double Battle: Yes
 
-Koffing
-Level: 18
+Golbat
+Level: 37
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Protect
+- Wing Attack
+- Leech Life
+- Poison Fang
 
-Ninjask
-Level: 18
+Weezing
+Level: 37
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Self Destruct
+- Sludge Bomb
+- Flamethrower
+
+Noibat
+Level: 37
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Boomburst
+- Draco Meteor
+- Hurricane 
+- Heat Wave
 
 === TRAINER_LAO_2 ===
 Name: LAO
@@ -8093,13 +8173,17 @@ Music: Female
 Double Battle: Yes
 AI: Check Bad Move
 
-Numel
-Level: 19
+Cinccino
+Level: 38
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Ember
-- Tackle
-- Magnitude
-- Sunny Day
+- Tail Slap
+- Sing
+- Bullet Seed
+- Wake Up Slap
+
+Castform
+Level: 38
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_CLARISSA ===
 Name: CLARISSA
@@ -8698,12 +8782,16 @@ Music: Girl
 Double Battle: Yes
 AI: Check Bad Move
 
-Taillow
-Level: 17
+Aromatisse
+Level: 35
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
-Lombre
-Level: 17
+Slurpuff
+Level: 35
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+
+Wigglytuff
+Level: 35
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_NANCY ===
@@ -8715,12 +8803,16 @@ Music: Girl
 Double Battle: Yes
 AI: Check Bad Move
 
-Marill
-Level: 18
+Misdreavus
+Level: 40
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
-Lombre
-Level: 18
+Drifblim
+Level: 40
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+
+Houndstone
+Level: 40
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_MARTHA ===
@@ -8787,12 +8879,12 @@ Music: Girl
 Double Battle: Yes
 AI: Check Bad Move
 
-Shroomish
-Level: 17
+Drizzile
+Level: 34
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
-Marill
-Level: 17
+Eldegoss
+Level: 34
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_DIANA_2 ===
@@ -11816,12 +11908,12 @@ Music: Hiker
 Double Battle: Yes
 AI: Check Bad Move
 
-Numel
-Level: 17
+Gastrodon
+Level: 36
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
-Machop
-Level: 17
+Krokorok
+Level: 36
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_TRENT_1 ===
@@ -11833,16 +11925,16 @@ Music: Hiker
 Double Battle: Yes
 AI: Check Bad Move
 
-Geodude
-Level: 16
+Crustle
+Level: 35
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
-Geodude
-Level: 17
+Rhyhorn
+Level: 35
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
-Geodude
-Level: 16
+Sudowoodo
+Level: 35
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_LENNY ===
@@ -11854,12 +11946,12 @@ Music: Hiker
 Double Battle: Yes
 AI: Check Bad Move
 
-Geodude
-Level: 18
+Rampardos 
+Level: 41
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
-Machop
-Level: 18
+Bastiodon
+Level: 41
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_LUCAS_1 ===
@@ -11871,12 +11963,19 @@ Music: Hiker
 Double Battle: Yes
 AI: Check Bad Move
 
-Geodude
-Level: 18
+Boldore
+Ability: Sand Stream
+Level: 41
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
-Numel
-Level: 18
+Stoutland
+Ability: Sand Rush
+Level: 41
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+
+Sandslash
+Ability: Sand Rush
+Level: 41
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_ALAN ===
@@ -12986,12 +13085,24 @@ Music: Twins
 Double Battle: Yes
 AI: Check Bad Move
 
-Spinda
-Level: 19
+Minun
+Ability: Minus
+Level: 38
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
-Spinda
-Level: 19
+Plusle
+Ability: Plus 
+Level: 38
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+
+Klang
+Ability: Minus 
+Level: 38
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+
+Dedenne
+Ability: Plus 
+Level: 38
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_KIM_AND_IRIS ===
@@ -13028,21 +13139,19 @@ Music: Twins
 Double Battle: Yes
 AI: Check Bad Move
 
-Roselia
-Level: 18
+Sneasel
+Level: 42
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Growth
-- Stun Spore
-- Mega Drain
-- Leech Seed
+- Surf
+- Fake Out
 
-Graveler
-Level: 20
+Coalossal @ Weakness Policy
+Level: 42
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Defense Curl
-- Rollout
-- Mud Sport
-- Rock Throw
+- Rock Slide
+- Earthquake
+- Heat Wave
+- Heat Crash
 
 === TRAINER_MEL_AND_PAUL ===
 Name: MEL & PAUL
@@ -13578,12 +13687,12 @@ Music: Girl
 Double Battle: Yes
 AI: Check Bad Move
 
-Marill
-Level: 17
+Azumarill
+Level: 39
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
-Lombre
-Level: 19
+Starmie
+Level: 39
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_COBY ===
@@ -13596,11 +13705,11 @@ Double Battle: Yes
 AI: Check Bad Move
 
 Skarmory
-Level: 17
+Level: 39
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
-Swellow
-Level: 19
+Mantine
+Level: 39
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_LAWRENCE ===
@@ -13612,12 +13721,16 @@ Music: Male
 Double Battle: Yes
 AI: Check Bad Move
 
-Baltoy
-Level: 18
+Duosion
+Level: 37
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
-Sandshrew
-Level: 18
+Gothorita
+Level: 37
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+
+Excadrill
+Level: 37
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_WYATT ===
@@ -13629,12 +13742,16 @@ Music: Suspicious
 Double Battle: Yes
 AI: Check Bad Move
 
-Aron
-Level: 18
+Doublade
+Level: 37
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
-Aron
-Level: 18
+Kangaskhan
+Level: 37
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+
+Rapidash
+Level: 40
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_ANGELINA ===
@@ -13646,12 +13763,19 @@ Music: Girl
 Double Battle: Yes
 AI: Check Bad Move
 
-Lombre
-Level: 18
+Sigilyph
+Ability: Magic Guard
+Level: 41
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
-Marill
-Level: 18
+Maractus
+Ability: Sand Veil
+Level: 41
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+
+Stunfisk
+Ability: Sand Veil
+Level: 41
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_KAI ===
@@ -13663,8 +13787,12 @@ Music: Hiker
 Double Battle: Yes
 AI: Check Bad Move
 
-Barboach
-Level: 19
+Wishiwashi
+Level: 39
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+
+Ludicolo
+Level: 39
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_CHARLOTTE ===
@@ -13676,8 +13804,16 @@ Music: Girl
 Double Battle: Yes
 AI: Check Bad Move
 
-Nuzleaf
-Level: 19
+Lurantis
+Level: 39
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+
+Pidgeot
+Level: 39
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+
+Primarina
+Level: 39
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_DEANDRE ===
@@ -14191,12 +14327,12 @@ Music: Female
 Double Battle: Yes
 AI: Check Bad Move
 
-Shroomish
-Level: 18
+Torterra
+Level: 36
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
-Roselia
-Level: 18
+Appletun
+Level: 36
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_KYRA ===
@@ -17336,7 +17472,7 @@ Level: 12
 === TRAINER_LEAF ===
 Name: COLIN
 Class: Rival
-Pic: Colin
+Pic: Leaf
 Gender: Female
 Music: Male
 Double Battle: Yes
