@@ -2025,6 +2025,25 @@ const struct Item gItemsInfo[] =
         .iconPalette = gItemIconPalette_ExpCandies,
     },
 
+    [ITEM_SUPER_CANDY] =
+    {
+        .name = _("Super Candy"),
+        .pluralName = _("Super Candies"),
+        .price = 0,
+        .holdEffectParam = LEVEL_CAP,
+        .description = COMPOUND_STRING(
+            "Raises level to\n"
+            "the level cap."),
+        .importance = 1,
+        .pocket = POCKET_KEY_ITEMS,
+        .type = ITEM_USE_PARTY_MENU,
+        .fieldUseFunc = ItemUseOutOfBattle_RareCandy,
+        .effect = gItemEffect_RareCandy,
+        .flingPower = 30,
+        .iconPic = gItemIcon_ExpCandyXL,
+        .iconPalette = gItemIconPalette_ExpCandies,
+    },
+
     [ITEM_DYNAMAX_CANDY] =
     {
         .name = _("Dynamax Candy"),
