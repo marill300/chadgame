@@ -90,8 +90,16 @@ Music: Hiker
 Double Battle: Yes
 AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
-Geodude
-Level: 21
+Camerupt
+Level: 43
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+
+Golem
+Level: 43
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+
+Gigalith
+Level: 43
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_GRUNT_AQUA_HIDEOUT_1 ===
@@ -2331,8 +2339,16 @@ Music: Female
 Double Battle: Yes
 AI: Check Bad Move
 
-Marill
-Level: 21
+Florges
+Level: 43
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+
+Dachsbun
+Level: 43
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+
+Furfrou
+Level: 43
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_SHEILA ===
@@ -2344,8 +2360,12 @@ Music: Female
 Double Battle: Yes
 AI: Check Bad Move
 
-Shroomish
-Level: 21
+Alomomola
+Level: 44
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+
+Gardevoir
+Level: 44
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_SHIRLEY ===
@@ -2357,8 +2377,12 @@ Music: Female
 Double Battle: Yes
 AI: Check Bad Move
 
-Numel
-Level: 21
+Bellossom
+Level: 43
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+
+Milotic
+Level: 43
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_JESSICA_1 ===
@@ -2730,9 +2754,23 @@ Music: Magma
 Double Battle: Yes
 AI: Check Bad Move
 
-Numel
-Level: 20
+Aurorus @ Power Herb
+Level: 43
+Ability: Snow Warning
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Freeze Dry
+- Ancient Power
+- Meteor Beam
+- Thunderbolt
+
+Sealeo @ Eviolite
+Level: 43
+Ability: Ice Body
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Blizzard
+- Protect
+- Surf
+- Body Slam
 
 === TRAINER_STEVE_2 ===
 Name: STEVE
@@ -3291,9 +3329,21 @@ Music: Intense
 Double Battle: Yes
 AI: Check Bad Move
 
-Machop
-Level: 19
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+Medicham
+Level: 42
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Skill Swap
+- High Jump Kick
+- Wide Guard
+- Zen Headbutt
+
+Pangoro
+Level: 42
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Earthquake
+- Brutal Swing
+- Rock Slide
+- Close Combat
 
 === TRAINER_NOB_2 ===
 Name: NOB
@@ -3615,9 +3665,13 @@ Music: Hiker
 Double Battle: Yes
 AI: Check Bad Move
 
-Numel
-Level: 23
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+Electrode
+Level: 45
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+
+Magneton
+Level: 45
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_JEFF ===
 Name: JEFF
@@ -3628,13 +3682,17 @@ Music: Hiker
 Double Battle: Yes
 AI: Check Bad Move
 
-Slugma
-Level: 22
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+Pikachu @ Light Ball
+Level: 44
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
-Slugma
-Level: 22
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+Pachirisu
+Level: 44
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+
+Electabuzz
+Level: 44
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_AXLE ===
 Name: AXLE
@@ -3645,9 +3703,13 @@ Music: Hiker
 Double Battle: Yes
 AI: Check Bad Move
 
-Numel
-Level: 23
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+Galvantula
+Level: 45
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+
+Lanturn
+Level: 45
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_JACE ===
 Name: JACE
@@ -3658,9 +3720,13 @@ Music: Hiker
 Double Battle: Yes
 AI: Check Bad Move
 
-Slugma
-Level: 23
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+Emolga
+Level: 45
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+
+Rotom
+Level: 45
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_KEEGAN ===
 Name: KEEGAN
@@ -3671,9 +3737,13 @@ Music: Hiker
 Double Battle: Yes
 AI: Check Bad Move
 
-Slugma
-Level: 23
-IVs: 14 HP / 14 Atk / 14 Def / 14 SpA / 14 SpD / 14 Spe
+Kilowattrel
+Level: 45
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+
+Boltund
+Level: 45
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_BERNIE_1 ===
 Name: BERNIE
@@ -3887,12 +3957,20 @@ Music: Male
 Double Battle: Yes
 AI: Check Bad Move
 
-Zigzagoon
-Level: 20
+Linoone
+Level: 43
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Belly Drum
+- Seed Bomb
+- Headbutt
+- Shadow Claw
+
+Pelipper
+Level: 43
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
-Taillow
-Level: 20
+Floatzel
+Level: 43
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_AUTUMN ===
@@ -3904,8 +3982,16 @@ Music: Girl
 Double Battle: Yes
 AI: Check Bad Move
 
-Shroomish
-Level: 21
+Tangela @ Eviolite
+Level: 43
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+
+Yanma @ Eviolite
+Level: 43
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+
+Gligar @ Eviolite
+Level: 43
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_TRAVIS ===
@@ -5024,41 +5110,60 @@ Class: Leader
 Pic: Leader Flannery
 Gender: Female
 Music: Female
-Items: Hyper Potion / Hyper Potion
 Double Battle: Yes
 AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
-Numel
-Level: 24
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Overheat
-- Take Down
-- Magnitude
-- Sunny Day
+Bellibolt @ Leftovers
+Level: 47
+Ability: Electromorphosis
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Electric Terrain 
+- Parabolic Charge
+- Muddy Water
+- Thunder
 
-Slugma
-Level: 24
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Overheat
-- Smog
-- Light Screen
-- Sunny Day
+Vikavolt @ Sitrus Berry
+Level: 47
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Bug Buzz
+- Sticky Web
+- Thunderbolt
+- Energy Ball
 
-Camerupt
-Level: 26
-IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Overheat
-- Tackle
-- Sunny Day
-- Attract
+Rotom_Fan 
+Level: 48
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Air Slash
+- Discharge
+- Shadow Ball
+- Thunder
 
-Torkoal @ White Herb
-Level: 29
-IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Overheat
-- Sunny Day
-- Body Slam
-- Attract
+Electrode_Hisui
+Level: 47
+Ability: Aftermath
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Chloroblast
+- Thunderbolt
+- Giga Drain
+- Volt Switch
+
+Toxtricity_Amped
+Level: 48
+Ability: Punk Rock
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Overdrive
+- Boomburst 
+- Sludge Wave
+- Psychic Noise
+
+Ampharos @ Ampharosite
+Level: 48
+Ability: Punk Rock
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Dragon Pulse
+- Dazzling Gleam
+- Discharge
+- Focus Blast
 
 === TRAINER_NORMAN_1 ===
 Name: NORMAN
@@ -5998,13 +6103,21 @@ Music: Intense
 Double Battle: Yes
 AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
-Meditite
-Level: 21
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
+Ledian
+Level: 42
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
-Makuhita
-Level: 21
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
+Poliwrath
+Level: 42
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+
+Lucario
+Level: 42
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+
+Machamp
+Level: 42
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_SHELBY_2 ===
 Name: SHELBY
@@ -8062,13 +8175,17 @@ Music: Intense
 Double Battle: Yes
 AI: Check Bad Move
 
-Meditite
-Level: 18
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+Sawk
+Level: 41
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
-Makuhita
-Level: 18
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+Throh
+Level: 41
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+
+Passimian
+Level: 41
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_CORA ===
 Name: CORA
@@ -8841,16 +8958,16 @@ Music: Girl
 Double Battle: Yes
 AI: Check Bad Move
 
-Shroomish
-Level: 19
+Tsareena
+Level: 41
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
-Oddish
-Level: 19
+Vileplume
+Level: 41
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
-Swablu
-Level: 19
+Cherrim
+Level: 41
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_CEDRIC ===
@@ -9365,9 +9482,13 @@ Music: Hiker
 Double Battle: Yes
 AI: Check Bad Move
 
-Numel
-Level: 23
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+Minun
+Level: 45
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+
+Plusle
+Level: 45
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_ANNIKA ===
 Name: ANNIKA
@@ -9567,12 +9688,17 @@ Music: Suspicious
 Double Battle: Yes
 AI: Check Bad Move
 
-Zangoose
-Level: 18
+Metang @ Eviolite
+Level: 42
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
-Seviper
-Level: 18
+
+Fraxure @ Eviolite
+Level: 42
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+
+Arctibax @ Eviolite
+Level: 42
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_TABITHA_MOSSDEEP ===
@@ -10836,8 +10962,12 @@ Music: Male
 Double Battle: Yes
 AI: Check Bad Move
 
-Magnemite
-Level: 21
+Passimian
+Level: 43
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+
+Hawlucha
+Level: 43
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_GRUNT_SEAFLOOR_CAVERN_5 ===
@@ -10900,13 +11030,13 @@ Music: Magma
 Double Battle: Yes
 AI: Check Bad Move
 
-Poochyena
-Level: 22
-IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
+Sealeo
+Level: 43
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
-Numel
-Level: 22
-IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
+Weavile
+Level: 43
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_MARC ===
 Name: MARC
@@ -11047,9 +11177,21 @@ Music: Magma
 Double Battle: Yes
 AI: Check Bad Move
 
-Zubat
-Level: 20
+Eiscue
+Level: 43
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Aurora Veil
+- Icicle Crash
+- Head Smash
+- Flip Turn
+
+Castform
+Level: 43
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Weather Ball
+- Fire Blast
+- Hydro Pump
+- Blizzard
 
 === TRAINER_CLARENCE ===
 Name: CLARENCE
@@ -11341,21 +11483,48 @@ Music: Magma
 Double Battle: Yes
 AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
-Numel
-Level: 18
-IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
+Glaceon @ Icy Rock
+Level: 44
+Ability: Snow Warning
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Blizzard
+- Freeze Dry
+- Mirror Coat
+- Icy Wind
 
-Poochyena
-Level: 20
-IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
+Froslass 
+Level: 44
+Ability: Snow Cloak
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Ominous Wind
+- Freeze Dry
+- Destiny Bond
+- Weather Ball
 
-Numel
-Level: 22
-IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
+Frosmoth @ Occa Berry
+Level: 44
+Ability: Ice Scales
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Tailwind
+- Silver Wind
+- Dazzling Gleam
+- Blizzard
 
-Zubat
-Level: 22
-IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
+Arctovish 
+Level: 44
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Icicle Spear 
+- Rock Slide 
+- Waterfall
+- Blizzard
+
+Abomasnow @ Abomasite
+Level: 45
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Blizzard
+- Wood Hammer
+- Earthquake 
+- Rock Slide 
 
 === TRAINER_JONATHAN ===
 Name: JONATHAN
@@ -11480,17 +11649,48 @@ Items: Super Potion / Super Potion
 Double Battle: Yes
 AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
-Mightyena
-Level: 24
-IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+Ninetales_Alola @ Icy Rock
+Level: 45
+Ability: Snow Warning
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Aurora Veil
+- Blizzard
+- Dazzling Gleam
+- Nasty Plot
 
-Zubat
-Level: 24
-IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+Cetitan
+Level: 45
+Ability: Slush Rush
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Ice Spinner
+- Belly Drum
+- Superpower
+- Liquidation
 
-Camerupt
-Level: 25
-IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+Beartic @ Sitrus Berry
+Level: 45
+Ability: Slush Rush
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Icicle Crash
+- Swords Dance
+- Rock Slide
+- Earthquake
+
+Rotom_Frost 
+Level: 45
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Blizzard
+- Thunderbolt
+- Shadow Ball
+- Will-o-Wisp
+
+Glalie @ Glalitite
+Level: 46
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Blizzard
+- Body Slam
+- Earthquake 
+- Crunch
 
 === TRAINER_TIANA ===
 Name: TIANA
@@ -12025,12 +12225,12 @@ Music: Hiker
 Double Battle: Yes
 AI: Check Bad Move
 
-Geodude
-Level: 20
+Tyrantrum
+Level: 43
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
-Baltoy
-Level: 20
+Claydol
+Level: 43
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_LUCAS_2 ===
@@ -12336,13 +12536,13 @@ Items: Hyper Potion
 Double Battle: Yes
 AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
-Kecleon
-Level: 23
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Flamethrower
-- Fury Swipes
-- Feint Attack
-- Bind
+Zebstrika
+Level: 45
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+
+Luxray
+Level: 45
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_VIVIAN ===
 Name: VIVIAN
@@ -12375,13 +12575,13 @@ Music: Intense
 Double Battle: Yes
 AI: Check Bad Move
 
-Meditite
-Level: 23
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Bide
-- Detect
-- Confusion
-- Fire Punch
+Oricorio_Pom_Pom
+Level: 45
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+
+Pawmot
+Level: 45
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_HIDEO ===
 Name: HIDEO
@@ -14412,12 +14612,16 @@ Music: Intense
 Double Battle: Yes
 AI: Check Bad Move
 
-Meditite
-Level: 18
+Grumpig
+Level: 41
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
-Spoink
-Level: 18
+Mr Mime
+Level: 41
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+
+Gothorita
+Level: 41
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_DEVAN ===
