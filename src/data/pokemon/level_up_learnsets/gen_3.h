@@ -6373,10 +6373,10 @@ static const struct LevelUpMove sElectrikeLevelUpLearnset[] = {
     LEVEL_UP_MOVE( 1, MOVE_TACKLE),
     LEVEL_UP_MOVE( 4, MOVE_THUNDER_WAVE),
     LEVEL_UP_MOVE( 9, MOVE_LEER),
+    LEVEL_UP_MOVE(11, MOVE_SPARK),
     LEVEL_UP_MOVE(12, MOVE_HOWL),
     LEVEL_UP_MOVE(17, MOVE_QUICK_ATTACK),
-    LEVEL_UP_MOVE(20, MOVE_SPARK),
-    LEVEL_UP_MOVE(25, MOVE_ODOR_SLEUTH),
+    LEVEL_UP_MOVE(20, MOVE_SNARL),
     LEVEL_UP_MOVE(28, MOVE_ROAR),
     LEVEL_UP_MOVE(33, MOVE_BITE),
     LEVEL_UP_MOVE(36, MOVE_THUNDER),
@@ -6385,6 +6385,7 @@ static const struct LevelUpMove sElectrikeLevelUpLearnset[] = {
 };
 
 static const struct LevelUpMove sManectricLevelUpLearnset[] = {
+    LEVEL_UP_MOVE( 0, MOVE_ZING_ZAP),
     LEVEL_UP_MOVE( 1, MOVE_TACKLE),
     LEVEL_UP_MOVE( 1, MOVE_THUNDER_WAVE),
     LEVEL_UP_MOVE( 1, MOVE_LEER),
