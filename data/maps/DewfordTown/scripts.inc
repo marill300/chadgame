@@ -67,7 +67,7 @@ DewfordMonkScript_4:
 # 20 "data/maps/DewfordTown/scripts.pory"
 	msgbox DewfordMonkScript_Text_4
 # 21 "data/maps/DewfordTown/scripts.pory"
-	giveegg SPECIES_TINKATON
+	giveegg SPECIES_TINKATINK
 	goto DewfordMonkScript_1
 
 DewfordMonkScript_5:
