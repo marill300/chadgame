@@ -8,7 +8,7 @@ MeteorFallsMonkScript::
 # 7 "data/maps/Route114/scripts.pory"
 	msgbox MeteorFallsMonkScript_Text_0
 # 8 "data/maps/Route114/scripts.pory"
-	trainerbattle_no_intro TRAINER_LEAF, MeteorFallsMonkScript_Text_1
+	trainerbattle_no_intro TRAINER_BRENDAN_PLACEHOLDER, MeteorFallsMonkScript_Text_1
 # 9 "data/maps/Route114/scripts.pory"
 	delay 30
 # 13 "data/maps/Route114/scripts.pory"
