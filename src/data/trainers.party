@@ -5067,18 +5067,18 @@ AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 Tatsugiri
 Level: 33
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Muddy Water
-- Dragon Pulse
+- Water Pulse
+- Dragonbreath
 - Icy Wind
 - Helping Hand
 
 Dondozo
 Level: 33
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Aqua Tail
+- Water Pulse
 - Body Slam
 - Heavy Slam
-- Order Up
+- Yawn
 
 Floatzel
 Level: 34
@@ -5086,7 +5086,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Ice Fang
 - Liquidation
 - Crunch
-- Rock Slide
+- Helping Hand
 
 Ludicolo
 Level: 34
@@ -17712,16 +17712,48 @@ Adamant Nature
 
 
 === TRAINER_BRENDAN_PLACEHOLDER ===
-Name: BRENDAN
+Name: COLIN
 Class: RS Protag
 Pic: RS Brendan
 Gender: Male
 Music: Male
 Double Battle: Yes
 
-Groudon
-Level: 5
+Tinkaton @ Assault Vest
+Ability: Mold Breaker
+Level: 42
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Fake Out
+- Gigaton Hammer
+- Play Rough
+- Rock Slide
+
+Yanmega @ Life Orb
+Ability: Tinted Lens
+Level: 43
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Air Slash
+- Giga Drain
+- Bug Buzz
+- Ancient Power
+
+Scizor @ Occa Berry
+Ability: Technician
+Level: 43
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Bullet Punch
+- U-Turn
+- Bug Bite
+- Swords Dance
+
+Leavanny @ Coba Berry
+Ability: Sharpness
+Level: 43
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Tidy Up
+- Leaf Blade
+- X Scissor
+- Swords Dance
 
 === TRAINER_MAY_PLACEHOLDER ===
 Name: MAY
