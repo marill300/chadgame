@@ -28731,9 +28731,9 @@ F_TRAINER_FEMALE |
             .heldItem = ITEM_ICY_ROCK,
 #line 11489
             .iv = TRAINER_PARTY_IVS(31, 31, 31, 31, 31, 31),
-#line 11488
-            .ability = ABILITY_SNOW_WARNING,
 #line 11487
+            .ability = ABILITY_SNOW_WARNING,
+#line 11488
             .lvl = 44,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
@@ -28751,9 +28751,9 @@ F_TRAINER_FEMALE |
             .gender = TRAINER_MON_RANDOM_GENDER,
 #line 11498
             .iv = TRAINER_PARTY_IVS(31, 31, 31, 31, 31, 31),
-#line 11497
-            .ability = ABILITY_SNOW_CLOAK,
 #line 11496
+            .ability = ABILITY_SNOW_CLOAK,
+#line 11497
             .lvl = 44,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
@@ -28773,9 +28773,9 @@ F_TRAINER_FEMALE |
             .heldItem = ITEM_OCCA_BERRY,
 #line 11507
             .iv = TRAINER_PARTY_IVS(31, 31, 31, 31, 31, 31),
-#line 11506
-            .ability = ABILITY_ICE_SCALES,
 #line 11505
+            .ability = ABILITY_SNOW_CLOAK,
+#line 11506
             .lvl = 44,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
@@ -29123,9 +29123,9 @@ F_TRAINER_FEMALE |
             .heldItem = ITEM_ICY_ROCK,
 #line 11655
             .iv = TRAINER_PARTY_IVS(31, 31, 31, 31, 31, 31),
-#line 11654
-            .ability = ABILITY_SNOW_WARNING,
 #line 11653
+            .ability = ABILITY_SNOW_WARNING,
+#line 11654
             .lvl = 45,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
@@ -29143,9 +29143,9 @@ F_TRAINER_FEMALE |
             .gender = TRAINER_MON_RANDOM_GENDER,
 #line 11664
             .iv = TRAINER_PARTY_IVS(31, 31, 31, 31, 31, 31),
-#line 11663
-            .ability = ABILITY_SLUSH_RUSH,
 #line 11662
+            .ability = ABILITY_SLUSH_RUSH,
+#line 11663
             .lvl = 45,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
@@ -29165,9 +29165,9 @@ F_TRAINER_FEMALE |
             .heldItem = ITEM_SITRUS_BERRY,
 #line 11673
             .iv = TRAINER_PARTY_IVS(31, 31, 31, 31, 31, 31),
-#line 11672
-            .ability = ABILITY_SLUSH_RUSH,
 #line 11671
+            .ability = ABILITY_SLUSH_RUSH,
+#line 11672
             .lvl = 45,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
