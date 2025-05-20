@@ -16346,8 +16346,7 @@ const struct SpeciesInfo gSpeciesInfoGen1[] =
         )
         .levelUpLearnset = sElectabuzzLevelUpLearnset,
         .teachableLearnset = sElectabuzzTeachableLearnset,
-        .evolutions = EVOLUTION({EVO_TRADE_ITEM, ITEM_ELECTIRIZER, SPECIES_ELECTIVIRE},
-                                {EVO_ITEM, ITEM_ELECTIRIZER, SPECIES_ELECTIVIRE}),
+        .evolutions = EVOLUTION({EVO_LEVEL, 48, SPECIES_ELECTIVIRE}),
     },
 
 #if P_GEN_4_CROSS_EVOS
@@ -16567,8 +16566,7 @@ const struct SpeciesInfo gSpeciesInfoGen1[] =
         )
         .levelUpLearnset = sMagmarLevelUpLearnset,
         .teachableLearnset = sMagmarTeachableLearnset,
-        .evolutions = EVOLUTION({EVO_TRADE_ITEM, ITEM_MAGMARIZER, SPECIES_MAGMORTAR},
-                                {EVO_ITEM, ITEM_MAGMARIZER, SPECIES_MAGMORTAR}),
+        .evolutions = EVOLUTION({EVO_LEVEL, 48, SPECIES_MAGMORTAR}),
     },
 
 #if P_GEN_4_CROSS_EVOS

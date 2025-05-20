@@ -9896,15 +9896,14 @@ const struct SpeciesInfo gSpeciesInfoGen3[] =
         )
         .levelUpLearnset = sDusclopsLevelUpLearnset,
         .teachableLearnset = sDusclopsTeachableLearnset,
-        .evolutions = EVOLUTION({EVO_TRADE_ITEM, ITEM_REAPER_CLOTH, SPECIES_DUSKNOIR},
-                                {EVO_ITEM, ITEM_REAPER_CLOTH, SPECIES_DUSKNOIR}),
+        .evolutions = EVOLUTION({EVO_LEVEL, 50, SPECIES_DUSKNOIR}),
     },
 
 #if P_GEN_4_CROSS_EVOS
     [SPECIES_DUSKNOIR] =
     {
         .baseHP        = 45,
-        .baseAttack    = 100,
+        .baseAttack    = 135,
         .baseDefense   = 135,
         .baseSpeed     = 45,
         .baseSpAttack  = 65,
@@ -9927,7 +9926,7 @@ const struct SpeciesInfo gSpeciesInfoGen3[] =
         .growthRate = GROWTH_FAST,
         .eggGroups = MON_EGG_GROUPS(EGG_GROUP_AMORPHOUS),
     #if P_UPDATED_ABILITIES >= GEN_6
-        .abilities = { ABILITY_PRESSURE, ABILITY_NONE, ABILITY_FRISK },
+        .abilities = { ABILITY_PRESSURE, ABILITY_NONE, ABILITY_IRON_FIST },
     #else
         .abilities = { ABILITY_PRESSURE, ABILITY_NONE, ABILITY_NONE },
     #endif
