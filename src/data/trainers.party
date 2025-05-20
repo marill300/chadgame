@@ -11484,8 +11484,8 @@ Double Battle: Yes
 AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Glaceon @ Icy Rock
-Level: 44
 Ability: Snow Warning
+Level: 44
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Blizzard
 - Freeze Dry
@@ -11493,8 +11493,8 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Icy Wind
 
 Froslass 
-Level: 44
 Ability: Snow Cloak
+Level: 44
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Ominous Wind
 - Freeze Dry
@@ -11502,8 +11502,8 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Weather Ball
 
 Frosmoth @ Occa Berry
+Ability: Snow Cloak
 Level: 44
-Ability: Ice Scales
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Tailwind
 - Silver Wind
@@ -11650,8 +11650,8 @@ Double Battle: Yes
 AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Ninetales_Alola @ Icy Rock
-Level: 45
 Ability: Snow Warning
+Level: 45
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Aurora Veil
 - Blizzard
@@ -11659,8 +11659,8 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Nasty Plot
 
 Cetitan
-Level: 45
 Ability: Slush Rush
+Level: 45
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Ice Spinner
 - Belly Drum
@@ -11668,8 +11668,8 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Liquidation
 
 Beartic @ Sitrus Berry
-Level: 45
 Ability: Slush Rush
+Level: 45
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Icicle Crash
 - Swords Dance
