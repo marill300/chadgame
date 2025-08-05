@@ -566,7 +566,7 @@
     {
       "type": "trigger",
       "x": 10,
-      "y": 28,
+      "y": 40,
       "elevation": 0,
       "var": "VAR_RUI_104_ENCOUNTER",
       "var_value": "0",
@@ -575,7 +575,7 @@
     {
       "type": "trigger",
       "x": 11,
-      "y": 28,
+      "y": 40,
       "elevation": 0,
       "var": "VAR_RUI_104_ENCOUNTER",
       "var_value": "0",

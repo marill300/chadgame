@@ -6,7 +6,7 @@ Route104_RuiScript0::
 # 6 "data/maps/Route104/scripts.pory"
 	addobject 35
 # 7 "data/maps/Route104/scripts.pory"
-	setobjectxy 35, 10, 30
+	setobjectxy 35, 10, 38
 # 9 "data/maps/Route104/scripts.pory"
 	goto Route104_RuiScript
 	return
@@ -20,7 +20,7 @@ Route104_RuiScript1::
 # 18 "data/maps/Route104/scripts.pory"
 	addobject 35
 # 19 "data/maps/Route104/scripts.pory"
-	setobjectxy 35, 11, 30
+	setobjectxy 35, 11, 38
 # 21 "data/maps/Route104/scripts.pory"
 	goto Route104_RuiScript
 	return
@@ -57,13 +57,13 @@ Route104_RuiScript::
 # 44 "data/maps/Route104/scripts.pory"
 RuiApproach:
 # 45 "data/maps/Route104/scripts.pory"
-	walk_up
+	walk_down
 	step_end
 
 # 48 "data/maps/Route104/scripts.pory"
 PlayerFaceRui:
 # 49 "data/maps/Route104/scripts.pory"
-	face_down
+	face_up
 	step_end
 
 # 57 "data/maps/Route104/scripts.pory"
