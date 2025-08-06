@@ -113,6 +113,8 @@ EventScript_ResetAllBerries::
 	return
 
 EventScript_ResetAllMapFlags::
+	setflag FLAG_HIDE_BRINEYS_HOUSE_MR_BRINEY
+
 	setflag FLAG_HIDE_CONTEST_POKE_BALL
 	setflag FLAG_HIDE_ROUTE_111_VICTORIA_WINSTRATE
 	setflag FLAG_HIDE_ROUTE_111_VIVI_WINSTRATE
