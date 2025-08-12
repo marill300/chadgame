@@ -1047,7 +1047,7 @@ static bool32 UpdateMatchCallMinutesCounter(void)
     if (sMatchCallState.minutes > curMinutes || curMinutes - sMatchCallState.minutes > 9)
     {
         sMatchCallState.minutes = curMinutes;
-        return TRUE;
+        return FALSE;
     }
 
     return FALSE;
@@ -1060,7 +1060,7 @@ static bool32 CheckMatchCallChance(void)
         callChance = 2;
 
     if (Random() % 10 < callChance * 3)
-        return TRUE;
+        return FALSE;
     else
         return FALSE;
 }
@@ -1080,7 +1080,7 @@ static bool32 MapAllowsMatchCall(void)
      && FlagGet(FLAG_DEFEATED_EVIL_TEAM_MT_CHIMNEY) == FALSE)
         return FALSE;
 
-    return TRUE;
+    return FALSE;
 }
 
 static bool32 UpdateMatchCallStepCounter(void)
@@ -1088,7 +1088,7 @@ static bool32 UpdateMatchCallStepCounter(void)
     if (++sMatchCallState.stepCounter >= 10)
     {
         sMatchCallState.stepCounter = 0;
-        return TRUE;
+        return FALSE;
     }
     else
     {
@@ -1112,7 +1112,7 @@ static bool32 SelectMatchCallTrainer(void)
     if (GetRematchTrainerLocation(matchCallId) == gMapHeader.regionMapSectionId && !TrainerIsEligibleForRematch(matchCallId))
         return FALSE;
 
-    return TRUE;
+    return FALSE;
 }
 
 // Ignores registrable non-trainer NPCs, and special trainers like Wally and the gym leaders.
@@ -1164,7 +1164,7 @@ bool32 TryStartMatchCall(void)
         && SelectMatchCallTrainer())
     {
         StartMatchCall();
-        return TRUE;
+        return FALSE;
     }
 
     return FALSE;
