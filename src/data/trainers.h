@@ -44851,7 +44851,7 @@ F_TRAINER_FEMALE |
 #line 17998
             .iv = TRAINER_PARTY_IVS(31, 31, 31, 31, 31, 31),
 #line 17995
-            .ability = ABILITY_TECHNICIAN,
+            .ability = ABILITY_STORM_DRAIN,
 #line 17996
             .lvl = 11,
 #line 17997
