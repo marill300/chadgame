@@ -25795,14 +25795,14 @@ F_TRAINER_FEMALE |
         {
             {
 #line 10338
-            .species = SPECIES_ARCANINE,
+            .species = SPECIES_GROWLITHE,
             .gender = TRAINER_MON_RANDOM_GENDER,
 #line 10341
             .iv = TRAINER_PARTY_IVS(31, 31, 31, 31, 31, 31),
 #line 10339
             .ability = ABILITY_INTIMIDATE,
 #line 10340
-            .lvl = 30,
+            .lvl = 21,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
             .moves = {
@@ -25815,14 +25815,14 @@ F_TRAINER_FEMALE |
             },
             {
 #line 10347
-            .species = SPECIES_PRIMEAPE,
+            .species = SPECIES_MANKEY,
             .gender = TRAINER_MON_RANDOM_GENDER,
 #line 10350
             .iv = TRAINER_PARTY_IVS(31, 31, 31, 31, 31, 31),
 #line 10348
             .ability = ABILITY_DEFIANT,
 #line 10349
-            .lvl = 31,
+            .lvl = 20,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
             .moves = {
@@ -25842,7 +25842,7 @@ F_TRAINER_FEMALE |
 #line 10357
             .ability = ABILITY_CLEAR_BODY,
 #line 10358
-            .lvl = 31,
+            .lvl = 21,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
             .moves = {
@@ -25862,13 +25862,13 @@ F_TRAINER_FEMALE |
 #line 10366
             .ability = ABILITY_OVERGROW,
 #line 10367
-            .lvl = 32,
+            .lvl = 22,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
             .moves = {
 #line 10369
-                MOVE_LEAF_BLADE,
-                MOVE_X_SCISSOR,
+                MOVE_TRAILBLAZE,
+                MOVE_FURY_CUTTER,
                 MOVE_THUNDER_PUNCH,
                 MOVE_AERIAL_ACE,
             },
@@ -25988,14 +25988,14 @@ F_TRAINER_FEMALE |
         {
             {
 #line 10417
-            .species = SPECIES_LUXRAY,
+            .species = SPECIES_LUXIO,
             .gender = TRAINER_MON_RANDOM_GENDER,
 #line 10420
             .iv = TRAINER_PARTY_IVS(31, 31, 31, 31, 31, 31),
 #line 10418
             .ability = ABILITY_INTIMIDATE,
 #line 10419
-            .lvl = 30,
+            .lvl = 21,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
             .moves = {
@@ -26017,7 +26017,7 @@ F_TRAINER_FEMALE |
 #line 10427
             .ability = ABILITY_DEFIANT,
 #line 10428
-            .lvl = 31,
+            .lvl = 21,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
             .moves = {
@@ -26030,14 +26030,14 @@ F_TRAINER_FEMALE |
             },
             {
 #line 10435
-            .species = SPECIES_ARCTIBAX,
+            .species = SPECIES_FRIGIBAX,
             .gender = TRAINER_MON_RANDOM_GENDER,
 #line 10438
             .iv = TRAINER_PARTY_IVS(31, 31, 31, 31, 31, 31),
 #line 10436
             .ability = ABILITY_THERMAL_EXCHANGE,
 #line 10437
-            .lvl = 31,
+            .lvl = 21,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
             .moves = {
@@ -26057,7 +26057,7 @@ F_TRAINER_FEMALE |
 #line 10445
             .ability = ABILITY_BLAZE,
 #line 10446
-            .lvl = 32,
+            .lvl = 22,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
             .moves = {
@@ -26183,14 +26183,14 @@ F_TRAINER_FEMALE |
         {
             {
 #line 10496
-            .species = SPECIES_GRANBULL,
+            .species = SPECIES_SNUBBULL,
             .gender = TRAINER_MON_RANDOM_GENDER,
 #line 10499
             .iv = TRAINER_PARTY_IVS(31, 31, 31, 31, 31, 31),
 #line 10497
             .ability = ABILITY_INTIMIDATE,
 #line 10498
-            .lvl = 30,
+            .lvl = 21,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
             .moves = {
@@ -26210,7 +26210,7 @@ F_TRAINER_FEMALE |
 #line 10506
             .ability = ABILITY_SUPERSWEET_SYRUP,
 #line 10507
-            .lvl = 31,
+            .lvl = 21,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
             .moves = {
@@ -26223,20 +26223,20 @@ F_TRAINER_FEMALE |
             },
             {
 #line 10514
-            .species = SPECIES_DRAGONAIR,
+            .species = SPECIES_DRATINI,
             .gender = TRAINER_MON_RANDOM_GENDER,
 #line 10517
             .iv = TRAINER_PARTY_IVS(31, 31, 31, 31, 31, 31),
 #line 10515
             .ability = ABILITY_MARVEL_SCALE,
 #line 10516
-            .lvl = 31,
+            .lvl = 21,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
             .moves = {
 #line 10518
                 MOVE_EXTREME_SPEED,
-                MOVE_AQUA_TAIL,
+                MOVE_DRAGON_RAGE,
                 MOVE_SCALE_SHOT,
                 MOVE_THUNDER_WAVE,
             },
@@ -26250,7 +26250,7 @@ F_TRAINER_FEMALE |
 #line 10524
             .ability = ABILITY_TORRENT,
 #line 10525
-            .lvl = 32,
+            .lvl = 22,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
             .moves = {

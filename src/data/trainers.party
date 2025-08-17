@@ -10335,27 +10335,27 @@ Music: Female
 Double Battle: Yes
 AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
-Arcanine 
+Growlithe
 Ability: Intimidate  
-Level: 30  
+Level: 21
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Fire Fang  
 - Will-O-Wisp  
 - Bite  
 - Thunder Fang  
 
-Primeape  
+Mankey  
 Ability: Defiant  
-Level: 31  
+Level: 20 
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Cross Chop  
 - Assurance  
-- Rock Slide  
+- Rock Slide 
 - Counter  
 
 Metang  
 Ability: Clear Body  
-Level: 31  
+Level: 21  
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe 
 - Bullet Punch  
 - Zen Headbutt  
@@ -10364,10 +10364,10 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Grovyle  
 Ability: Overgrow  
-Level: 32
+Level: 22
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe   
-- Leaf Blade  
-- X-Scissor  
+- Trailblaze  
+- Fury Cutter  
 - Thunder Punch  
 - Aerial Ace  
 
@@ -10414,27 +10414,27 @@ Music: Female
 Double Battle: Yes
 AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
-Luxray 
+Luxio  
 Ability: Intimidate  
-Level: 30 
+Level: 21  
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Psychic Fangs  
 - Fire Fang  
 - Ice Fang  
 - Thunder Fang  
 
-Pawniard @ Eviolite
+Pawniard @ Eviolite  
 Ability: Defiant  
-Level: 31 
+Level: 21 
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe  
 - Low Kick  
 - Sucker Punch  
 - Metal Claw  
 - Rock Tomb  
 
-Arctibax  
+Frigibax  
 Ability: Thermal Exchange  
-Level: 31 
+Level: 21 
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe  
 - Dragon Tail  
 - Ice Shard  
@@ -10443,7 +10443,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Combusken  
 Ability: Blaze  
-Level: 32  
+Level: 22  
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe 
 - Double Kick  
 - Flame Charge  
@@ -10493,9 +10493,9 @@ Music: Female
 Double Battle: Yes
 AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
-Granbull  
+Snubbull  
 Ability: Intimidate  
-Level: 30  
+Level: 21  
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Covet  
 - Ice Fang  
@@ -10504,30 +10504,30 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Dipplin  
 Ability: Supersweet Syrup  
-Level: 31  
+Level: 21  
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Dragon Breath  
 - Syrup Bomb  
 - Leech Seed  
 - Sucker Punch  
 
-Dragonair  
+Dratini 
 Ability: Marvel Scale  
-Level: 31  
+Level: 21  
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Extreme Speed  
-- Aqua Tail  
+- Dragon Rage  
 - Scale Shot  
 - Thunder Wave  
 
 Marshtomp  
 Ability: Torrent  
-Level: 32 
+Level: 22  
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Rock Slide  
 - Bulldoze  
 - Low Kick  
-- Muddy Water 
+- Muddy Water  
 
 === TRAINER_MAY_ROUTE_119_TORCHIC ===
 Name: MAY
