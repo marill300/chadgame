@@ -17944,12 +17944,12 @@ Double Battle: Yes
 AI: Smart Trainer / AI_FLAG_PREFER_HIGHEST_DAMAGE_MOVE
 
 Tandemaus
-Level: 11
+Level: 13
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Sneasel  
 Ability: Inner Focus  
-Level: 12
+Level: 14
 - Icy Wind  
 - Pursuit  
 - Ice Shard
@@ -17957,11 +17957,11 @@ Level: 12
 
 Electrike  
 Ability: Static  
-Level: 13  
-- Tackle  
+Level: 14  
+- Flame Burst  
 - Howl  
 - Thunder Shock  
-- Leer
+- Bite
 
 === TRAINER_LEAF ===
 Name: COLIN
