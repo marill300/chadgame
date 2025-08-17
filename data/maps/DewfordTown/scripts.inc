@@ -16,7 +16,7 @@ DewfordMonkScript::
 # 11 "data/maps/DewfordTown/scripts.pory"
 	msgbox DewfordMonkScript_Text_0
 # 12 "data/maps/DewfordTown/scripts.pory"
-	trainerbattle_no_intro TRAINER_LEAF, DewfordMonkScript_Text_1
+	trainerbattle_no_intro TRAINER_RED, DewfordMonkScript_Text_1
 # 13 "data/maps/DewfordTown/scripts.pory"
 	msgbox DewfordMonkScript_Text_2
 # 14 "data/maps/DewfordTown/scripts.pory"

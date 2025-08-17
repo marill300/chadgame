@@ -38,7 +38,7 @@ Route104_RuiScript::
 # 30 "data/maps/Route104/scripts.pory"
 	playse SE_PIN
 # 31 "data/maps/Route104/scripts.pory"
-	trainerbattle_no_intro TRAINER_RED, Route104_RuiScript_Text_1
+	trainerbattle_no_intro TRAINER_LEAF, Route104_RuiScript_Text_1
 # 32 "data/maps/Route104/scripts.pory"
 	msgbox Route104_RuiScript_Text_2
 # 33 "data/maps/Route104/scripts.pory"
