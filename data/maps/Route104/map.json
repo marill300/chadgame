@@ -580,6 +580,24 @@
       "var": "VAR_RUI_104_ENCOUNTER",
       "var_value": "0",
       "script": "Route104_RuiScript1"
+    },
+    {
+      "type": "trigger",
+      "x": 11,
+      "y": 39,
+      "elevation": 0,
+      "var": "VAR_ROUTE104_STATE",
+      "var_value": "0",
+      "script": "Route104_WoodsBlocker2"
+    },
+    {
+      "type": "trigger",
+      "x": 10,
+      "y": 39,
+      "elevation": 0,
+      "var": "VAR_ROUTE104_STATE",
+      "var_value": "0",
+      "script": "Route104_WoodsBlocker"
     }
   ],
   "bg_events": [
