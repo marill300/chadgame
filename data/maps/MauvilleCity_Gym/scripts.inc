@@ -187,7 +187,7 @@ MauvilleCity_Gym_EventScript_WattsonDefeated::
 # 94 "data/maps/MauvilleCity_Gym/scripts.pory"
 	setflag FLAG_DEFEATED_MAUVILLE_GYM
 # 95 "data/maps/MauvilleCity_Gym/scripts.pory"
-	setflag FLAG_BADGE03_GET
+	setflag FLAG_BADGE02_GET
 # 96 "data/maps/MauvilleCity_Gym/scripts.pory"
 	addvar VAR_PETALBURG_GYM_STATE, 1
 # 97 "data/maps/MauvilleCity_Gym/scripts.pory"

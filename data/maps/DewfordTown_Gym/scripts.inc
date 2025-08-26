@@ -301,7 +301,7 @@ DewfordTown_Gym_EventScript_BrawlyDefeated::
 # 151 "data/maps/DewfordTown_Gym/scripts.pory"
 	setflag FLAG_DEFEATED_DEWFORD_GYM
 # 152 "data/maps/DewfordTown_Gym/scripts.pory"
-	setflag FLAG_BADGE02_GET
+	setflag FLAG_BADGE04_GET
 # 153 "data/maps/DewfordTown_Gym/scripts.pory"
 	addvar VAR_PETALBURG_GYM_STATE, 1
 # 154 "data/maps/DewfordTown_Gym/scripts.pory"
