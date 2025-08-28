@@ -3379,15 +3379,15 @@ const struct SpeciesInfo gSpeciesInfoGen4[] =
         .levelUpLearnset = sBunearyLevelUpLearnset,
         .teachableLearnset = sBunearyTeachableLearnset,
         .eggMoveLearnset = sBunearyEggMoveLearnset,
-        .evolutions = EVOLUTION({EVO_FRIENDSHIP, 0, SPECIES_LOPUNNY}),
+        .evolutions = EVOLUTION({EVO_LEVEL, 30, SPECIES_LOPUNNY}),,
     },
 
     [SPECIES_LOPUNNY] =
     {
-        .baseHP        = 65,
-        .baseAttack    = 76,
+        .baseHP        = 75,
+        .baseAttack    = 96,
         .baseDefense   = 84,
-        .baseSpeed     = 105,
+        .baseSpeed     = 115,
         .baseSpAttack  = 54,
         .baseSpDefense = 96,
         .types = MON_TYPES(TYPE_NORMAL),
