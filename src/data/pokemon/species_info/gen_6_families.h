@@ -2228,7 +2228,7 @@ const struct SpeciesInfo gSpeciesInfoGen6[] =
         .levelUpLearnset = sPanchamLevelUpLearnset,
         .teachableLearnset = sPanchamTeachableLearnset,
         .eggMoveLearnset = sPanchamEggMoveLearnset,
-        .evolutions = EVOLUTION({EVO_LEVEL, 32, SPECIES_PANGORO}),
+        .evolutions = EVOLUTION({EVO_LEVEL, 32, SPECIES_PANGORO, CONDITIONS({IF_TYPE_IN_PARTY, TYPE_DARK})}),
     },
 
     [SPECIES_PANGORO] =
@@ -3937,14 +3937,14 @@ const struct SpeciesInfo gSpeciesInfoGen6[] =
         .levelUpLearnset = sTyruntLevelUpLearnset,
         .teachableLearnset = sTyruntTeachableLearnset,
         .eggMoveLearnset = sTyruntEggMoveLearnset,
-        .evolutions = EVOLUTION({EVO_LEVEL, 39, SPECIES_TYRANTRUM}),
+        .evolutions = EVOLUTION({EVO_LEVEL, 39, SPECIES_TYRANTRUM, CONDITIONS({IF_NOT_TIME, TIME_NIGHT})}),
     },
 
     [SPECIES_TYRANTRUM] =
     {
         .baseHP        = 82,
-        .baseAttack    = 140,
-        .baseDefense   = 109,
+        .baseAttack    = 121,
+        .baseDefense   = 119,
         .baseSpeed     = 71,
         .baseSpAttack  = 69,
         .baseSpDefense = 59,
@@ -4081,16 +4081,16 @@ const struct SpeciesInfo gSpeciesInfoGen6[] =
         .levelUpLearnset = sAmauraLevelUpLearnset,
         .teachableLearnset = sAmauraTeachableLearnset,
         .eggMoveLearnset = sAmauraEggMoveLearnset,
-        .evolutions = EVOLUTION({EVO_LEVEL, 39, SPECIES_AURORUS}),
+        .evolutions = EVOLUTION({EVO_LEVEL, 39, SPECIES_AURORUS, CONDITIONS({IF_TIME, TIME_NIGHT})}),
     },
 
     [SPECIES_AURORUS] =
     {
         .baseHP        = 123,
-        .baseAttack    = 67,
+        .baseAttack    = 77,
         .baseDefense   = 72,
         .baseSpeed     = 58,
-        .baseSpAttack  = 118,
+        .baseSpAttack  = 99,
         .baseSpDefense = 92,
         .types = MON_TYPES(TYPE_ROCK, TYPE_ICE),
         .catchRate = 45,
@@ -4512,8 +4512,8 @@ const struct SpeciesInfo gSpeciesInfoGen6[] =
         .levelUpLearnset = sSliggooLevelUpLearnset,
         .teachableLearnset = sSliggooTeachableLearnset,
         .formSpeciesIdTable = sSliggooFormSpeciesIdTable,
-        .evolutions = EVOLUTION({EVO_LEVEL, 50, SPECIES_GOODRA},
-                                {EVO_LEVEL, 50, SPECIES_GOODRA}),
+        .evolutions = EVOLUTION({EVO_LEVEL, 50, SPECIES_GOODRA, CONDITIONS({IF_WEATHER, WEATHER_RAIN})},
+                                {EVO_LEVEL, 50, SPECIES_GOODRA, CONDITIONS({IF_WEATHER, WEATHER_FOG})}),
     },
 
     [SPECIES_GOODRA] =
@@ -4651,8 +4651,9 @@ const struct SpeciesInfo gSpeciesInfoGen6[] =
         .levelUpLearnset = sSliggooHisuiLevelUpLearnset,
         .teachableLearnset = sSliggooHisuiTeachableLearnset,
         .formSpeciesIdTable = sSliggooFormSpeciesIdTable,
-        .evolutions = EVOLUTION({EVO_LEVEL, 50, SPECIES_GOODRA_HISUI},
-                                {EVO_LEVEL, 50, SPECIES_GOODRA_HISUI}),
+        .evolutions = EVOLUTION({EVO_LEVEL, 50, SPECIES_GOODRA_HISUI, CONDITIONS({IF_WEATHER, WEATHER_RAIN})},
+                                {EVO_LEVEL, 50, SPECIES_GOODRA_HISUI, CONDITIONS({IF_WEATHER, WEATHER_FOG})}),
+
     },
 
     [SPECIES_GOODRA_HISUI] =
