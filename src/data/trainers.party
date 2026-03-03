@@ -918,14 +918,32 @@ Music: Hiker
 Battle Type: Doubles
 AI: Check Bad Move
 
-Sandslash
-Level: 23
-IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
+Bronzong
+Level: 46
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Nature: Hardy
-- Dig
-- Slash
-- Sand Attack
-- Poison Sting
+- Reflect
+- Light Screen
+- Gyro Ball
+- Zen Headbutt
+
+Claydol
+Level: 46
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Nature: Hardy
+- Earthquake
+- Psychic
+- Shadow Ball
+- Power Gem
+
+Magneton
+Level: 46
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Nature: Hardy
+- Discharge
+- Flash Cannon
+- Protect
+- Hidden Power
 
 === TRAINER_CHIP ===
 Name: CHIP
@@ -1098,15 +1116,41 @@ Music: Interviewer
 Battle Type: Doubles
 AI: Check Bad Move
 
-Magnemite
-Level: 27
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+Claydol
+Level: 49
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Nature: Hardy
+- Gravity
+- Psychic
+- Follow Me
+- Earth Power
 
-Loudred
-Level: 27
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+Flapple
+Level: 49
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Nature: Hardy
+- Grav Apple
+- Acrobatics
+- Sucker Punch
+- Acid Spray
+
+Slaking
+Level: 49
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Nature: Hardy
+- Body Slam
+- Rock Slide
+- Brick Break
+- Thunder
+
+Grumpig
+Level: 49
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Nature: Hardy
+- Skill Swap
+- Follow Me
+- Extrasensory
+- Dark Pulse
 
 === TRAINER_GABBY_AND_TY_3 ===
 Name: GABBY & TY
@@ -4396,14 +4440,20 @@ Music: Male
 Battle Type: Doubles
 AI: Check Bad Move
 
-Sandshrew
-Level: 23
+Aggron
+Level: 46
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Nature: Hardy
-- Dig
-- Sand Attack
-- Poison Sting
-- Slash
+- Earthquake
+- Rock Slide
+- Iron Tail
+- Blizzard
+
+Golem
+Level: 46
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Nature: Hardy
+- Explosion
 
 === TRAINER_BEAU ===
 Name: BEAU
@@ -4414,32 +4464,32 @@ Music: Male
 Battle Type: Doubles
 AI: Check Bad Move
 
-Baltoy
-Level: 21
+Orthworm
+Level: 45
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Nature: Hardy
-- Rapid Spin
-- Mud Slap
-- Psybeam
-- Rock Tomb
+- Heavy Slam
+- Earthquake
+- Body Press
+- Rock Slide
 
-Sandshrew
-Level: 21
+Excadrill
+Level: 45
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Nature: Hardy
-- Poison Sting
-- Sand Attack
-- Scratch
-- Dig
+- Earthquake
+- Iron Head
+- Rock Slide
+- Hone Claws
 
-Baltoy
-Level: 21
+Hippowdon
+Level: 45
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Nature: Hardy
-- Rapid Spin
-- Mud Slap
-- Psybeam
-- Rock Tomb
+- Earthquake
+- Fire Fang
+- Thunder Fang
+- Slack Off
 
 === TRAINER_LARRY ===
 Name: LARRY
@@ -5668,17 +5718,17 @@ Nature: Hardy
 - Incinerate
 - Rock Tomb
 - Psybeam
-- Solar Beam
+- Light Screen
 
-Tauros Paldea Blaze
-Level: 13
-Ability: Intimidate
+Slugma
+Level: 14
+Ability: Magma Armor
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Nature: Hardy
-- Double Kick
-- Flame Charge
-- Headbutt
-- Pursuit
+- Incinerate
+- Rock Slide
+- Will-o-Wisp
+- Reflect
 
 Charmeleon
 Level: 15
@@ -7655,15 +7705,26 @@ Music: Hiker
 Battle Type: Doubles
 AI: Check Bad Move
 
-Tentacool
-Level: 25
+Mantine
+Level: 50
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Nature: Hardy
 
-Carvanha
-Level: 25
+Jellicent
+Level: 50
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Nature: Hardy
+
+Clodsire
+Level: 50
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Nature: Hardy
+
+Lanturn
+Level: 50
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Nature: Hardy
+
 
 === TRAINER_WADE ===
 Name: WADE
@@ -8624,8 +8685,13 @@ Music: Cool
 Battle Type: Doubles
 AI: Check Bad Move
 
-Wingull
-Level: 26
+Xatu
+Level: 52
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Nature: Hardy
+
+Hawlucha
+Level: 52
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Nature: Hardy
 
@@ -8804,13 +8870,18 @@ Music: Cool
 Battle Type: Doubles
 AI: Check Bad Move
 
-Taillow
-Level: 25
+Swellow
+Level: 51
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Nature: Hardy
 
-Swellow
-Level: 25
+Skarmory
+Level: 51
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Nature: Hardy
+
+Unfezant
+Level: 51
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Nature: Hardy
 
@@ -10029,23 +10100,33 @@ Music: Girl
 Battle Type: Doubles
 AI: Check Bad Move
 
-Sandshrew
-Level: 22
+Sandslash
+Level: 45
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Nature: Hardy
-- Dig
-- Sand Attack
-- Poison Sting
-- Slash
-
-Baltoy
-Level: 22
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-Nature: Hardy
+- Bulldoze
+- Rock Slide
 - Rapid Spin
-- Mud Slap
-- Psybeam
-- Rock Tomb
+- Aerial Ace
+
+Stoutland
+Level: 45
+Ability: Sand Rush
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Nature: Hardy
+- Crunch
+- Body Slam
+- Work Up
+- Ice Fang
+
+Carbink
+Level: 45
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Nature: Hardy
+- Reflect
+- Light Screen
+- Dazzling Gleam
+- Power Gem
 
 === TRAINER_BECKY ===
 Name: BECKY
@@ -10056,23 +10137,23 @@ Music: Girl
 Battle Type: Doubles
 AI: Check Bad Move
 
-Sandshrew
-Level: 22
+Maractus
+Level: 46
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Nature: Hardy
-- Sand Attack
-- Poison Sting
-- Slash
-- Dig
+- Giga Drain
+- Growth
+- Spiky Shield
+- Sucker Punch
 
-Marill
-Level: 22
+Gabite
+Level: 46
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Nature: Hardy
-- Rollout
-- Bubble Beam
-- Tail Whip
-- Defense Curl
+- Scale Shot
+- Swords Dance
+- Earthquake
+- Fire Fang
 
 === TRAINER_CAROL ===
 Name: CAROL
@@ -16340,15 +16421,32 @@ Music: Girl
 Battle Type: Doubles
 AI: Check Bad Move
 
-Marill
-Level: 22
+Piloswine
+Level: 47
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Nature: Hardy
+- Earthquake
+- Avalanche
+- Crunch
+- Ice Shard
 
-Lombre
-Level: 22
+Pupitar
+Level: 46
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Nature: Hardy
+- Earthquake
+- Rock Slide
+- Crunch
+- Protect
+
+Dugtrio Alola
+Level: 46
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Nature: Hardy
+- Earthquake
+- Iron Head
+- Protect
+- Rock Slide
 
 === TRAINER_BRYAN ===
 Name: BRYAN
@@ -16359,15 +16457,23 @@ Music: Hiker
 Battle Type: Doubles
 AI: Check Bad Move
 
-Sandshrew
-Level: 22
+Gliscor
+Level: 48
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Nature: Hardy
+- Stomping Tantrum
+- Acrobatics
+- Double Team
+- Swords Dance
 
-Sandslash
-Level: 22
+Heliolisk
+Level: 48
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Nature: Hardy
+- Discharge
+- Hyper Voice
+- Breaking Swipe
+- Focus Blast
 
 === TRAINER_BRANDEN ===
 Name: BRANDEN
@@ -16378,15 +16484,41 @@ Music: Male
 Battle Type: Doubles
 AI: Check Bad Move
 
-Taillow
-Level: 22
+Sandaconda
+Level: 48
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Nature: Hardy
+- Earthquake   
+- Crunch
+- Wrap
+- Fire Fang
 
-Nuzleaf
-Level: 22
+Wugtrio
+Level: 48
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Nature: Hardy
+- Aqua Jet
+- Sucker Punch
+- Triple Dive
+- Helping Hand
+
+Orthworm
+Level: 48
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Nature: Hardy
+- Stomping Tantrum
+- Iron Tail
+- Rock Slide
+- Thunder Wave
+
+Stunfisk
+Level: 48
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Nature: Hardy
+- Discharge
+- Earth Power
+- Scald
+- Muddy Water
 
 === TRAINER_BRYANT ===
 Name: BRYANT
