@@ -8869,6 +8869,7 @@ uq4_12_t GetOverworldTypeEffectiveness(struct Pokemon *mon, enum Type moveType)
 
     if ((modifier <= UQ_4_12(1.0) && abilityDef == ABILITY_WONDER_GUARD)
      || CanAbilityAbsorbMove(0, 0, abilityDef, MOVE_NONE, moveType, CHECK_TRIGGER))
+    {
         modifier = UQ_4_12(0.0);
     }
     return modifier;

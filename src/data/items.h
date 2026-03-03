@@ -2113,8 +2113,8 @@ const struct Item gItemsInfo[] =
 
     [ITEM_SUPER_CANDY] =
     {
-        .name = _("Super Candy"),
-        .pluralName = _("Super Candies"),
+        .name = ITEM_NAME("Super Candy"),
+        .pluralName = ITEM_PLURAL_NAME("Super Candies"),
         .price = 0,
         .holdEffectParam = LEVEL_CAP,
         .description = COMPOUND_STRING(

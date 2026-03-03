@@ -81,8 +81,8 @@
     },
     {
       "graphics_id": "OBJ_EVENT_GFX_SAILOR",
-      "x": 21,
-      "y": 20,
+      "x": 15,
+      "y": 17,
       "elevation": 4,
       "movement_type": "MOVEMENT_TYPE_FACE_DOWN",
       "movement_range_x": 0,
@@ -94,8 +94,8 @@
     },
     {
       "graphics_id": "OBJ_EVENT_GFX_SAILOR",
-      "x": 20,
-      "y": -1,
+      "x": 24,
+      "y": 13,
       "elevation": 3,
       "movement_type": "MOVEMENT_TYPE_FACE_LEFT",
       "movement_range_x": 0,
@@ -108,7 +108,7 @@
     {
       "graphics_id": "OBJ_EVENT_GFX_TUBER_M",
       "x": 19,
-      "y": 5,
+      "y": 10,
       "elevation": 3,
       "movement_type": "MOVEMENT_TYPE_FACE_DOWN",
       "movement_range_x": 0,
@@ -120,8 +120,8 @@
     },
     {
       "graphics_id": "OBJ_EVENT_GFX_TUBER_F",
-      "x": 31,
-      "y": -1,
+      "x": 22,
+      "y": 7,
       "elevation": 3,
       "movement_type": "MOVEMENT_TYPE_WALK_SLOWLY_IN_PLACE_RIGHT",
       "movement_range_x": 0,
@@ -289,8 +289,8 @@
     },
     {
       "graphics_id": "OBJ_EVENT_GFX_TUBER_F",
-      "x": 16,
-      "y": -1,
+      "x": 17,
+      "y": 13,
       "elevation": 3,
       "movement_type": "MOVEMENT_TYPE_WALK_SLOWLY_IN_PLACE_RIGHT",
       "movement_range_x": 1,
@@ -302,8 +302,8 @@
     },
     {
       "graphics_id": "OBJ_EVENT_GFX_TUBER_M",
-      "x": 34,
-      "y": -1,
+      "x": 27,
+      "y": 7,
       "elevation": 3,
       "movement_type": "MOVEMENT_TYPE_WALK_SLOWLY_IN_PLACE_LEFT",
       "movement_range_x": 1,
@@ -315,8 +315,8 @@
     },
     {
       "graphics_id": "OBJ_EVENT_GFX_ITEM_BALL",
-      "x": 33,
-      "y": -5,
+      "x": 25,
+      "y": 6,
       "elevation": 3,
       "movement_type": "MOVEMENT_TYPE_LOOK_AROUND",
       "movement_range_x": 1,
@@ -349,9 +349,7 @@
       "dest_warp_id": "0"
     }
   ],
-  "coord_events": [
-
-  ],
+  "coord_events": [],
   "bg_events": [
     {
       "type": "sign",
