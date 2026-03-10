@@ -100,7 +100,7 @@
               {
                 "min_level": 3,
                 "max_level": 4,
-                "species": "SPECIES_RATTATA_ALOLA"
+                "species": "SPECIES_SPEAROW"
               },
               {
                 "min_level": 3,
@@ -1309,12 +1309,12 @@
               {
                 "min_level": 22,
                 "max_level": 25,
-                "species": "SPECIES_SEVIPER"
+                "species": "SPECIES_SCRAGGY"
               },
               {
                 "min_level": 22,
                 "max_level": 25,
-                "species": "SPECIES_ZANGOOSE"
+                "species": "SPECIES_SCRAGGY"
               },
               {
                 "min_level": 22,
@@ -3086,7 +3086,7 @@
               {
                 "min_level": 26,
                 "max_level": 29,
-                "species": "SPECIES_CUBCHOO"
+                "species": "SPECIES_SNORUNT"
               },
               {
                 "min_level": 27,
@@ -9620,7 +9620,7 @@
               {
                 "min_level": 8,
                 "max_level": 9,
-                "species": "SPECIES_SPHEAL"
+                "species": "SPECIES_BINACLE"
               },
               {
                 "min_level": 8,
@@ -10275,22 +10275,12 @@
               {
                 "min_level": 5,
                 "max_level": 5,
-                "species": "SPECIES_ZORUA"
+                "species": "SPECIES_INKAY"
               },
               {
                 "min_level": 5,
                 "max_level": 5,
-                "species": "SPECIES_ZORUA_HISUI"
-              },
-              {
-                "min_level": 5,
-                "max_level": 5,
-                "species": "SPECIES_FUECOCO"
-              },
-              {
-                "min_level": 5,
-                "max_level": 5,
-                "species": "SPECIES_SINISTEA"
+                "species": "SPECIES_BELLSPROUT"
               },
               {
                 "min_level": 5,
@@ -10300,7 +10290,17 @@
               {
                 "min_level": 5,
                 "max_level": 5,
-                "species": "SPECIES_SINISTEA"
+                "species": "SPECIES_SKITTY"
+              },
+              {
+                "min_level": 5,
+                "max_level": 5,
+                "species": "SPECIES_FUECOCO"
+              },
+              {
+                "min_level": 5,
+                "max_level": 5,
+                "species": "SPECIES_SKITTY"
               }
             ]
           },
