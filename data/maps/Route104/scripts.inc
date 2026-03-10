@@ -2,7 +2,7 @@ Route104_RuiScript0::
 # 4 "data/maps/Route104/scripts.pory"
 	lock
 # 5 "data/maps/Route104/scripts.pory"
-	clearflag FLAG_RUI_MET
+	clearflag FLAG_MONK_MET
 # 6 "data/maps/Route104/scripts.pory"
 	addobject 35
 # 7 "data/maps/Route104/scripts.pory"
@@ -16,7 +16,7 @@ Route104_RuiScript1::
 # 13 "data/maps/Route104/scripts.pory"
 	lock
 # 14 "data/maps/Route104/scripts.pory"
-	clearflag FLAG_RUI_MET
+	clearflag FLAG_MONK_MET
 # 15 "data/maps/Route104/scripts.pory"
 	addobject 35
 # 16 "data/maps/Route104/scripts.pory"
@@ -73,7 +73,7 @@ Route104_RuiScript_9:
 # 57 "data/maps/Route104/scripts.pory"
 	msgbox Route104_RuiScript_Text_12
 # 60 "data/maps/Route104/scripts.pory"
-	setflag FLAG_RUI_MET
+	setflag FLAG_MONK_MET
 # 61 "data/maps/Route104/scripts.pory"
 	setvar VAR_RUI_104_ENCOUNTER, 1
 # 62 "data/maps/Route104/scripts.pory"
