@@ -20060,15 +20060,15 @@ Nature: Hardy
 - Ice Shard
 - Fake Out
 
-Electrike
+Tynamo
 Level: 14
-Ability: Static
+Ability: Levitate
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-Nature: Hardy
-- Flame Burst
-- Howl
-- Thunder Shock
-- Bite
+Nature: Modest
+- Icy Wind
+- Acid Spray
+- Charge Beam
+- Electroweb
 
 === TRAINER_LEAF ===
 Name: COLIN
