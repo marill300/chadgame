@@ -5868,15 +5868,15 @@ Music: Female
 Battle Type: Doubles
 AI: Smart Trainer / Prefer Highest Damage Move
 
-Nidoking @ Life Orb
+Glimmora @ Air Balloon
 Level: 38
-Ability: Sheer Force
+Ability: Toxic Debris
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Nature: Hardy
-- Icy Wind
-- Sludge Wave
-- Bulldoze
-- Rock Slide
+- Energy Ball
+- Ancient Power
+- Stealth Rock
+- Acid Spray
 
 Venomoth @ Focus Sash
 Level: 37
@@ -5888,6 +5888,16 @@ Nature: Hardy
 - Quiver Dance
 - Baton Pass
 
+Nidoking @ Life Orb
+Level: 38
+Ability: Sheer Force
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Nature: Hardy
+- Icy Wind
+- Sludge Wave
+- Bulldoze
+- Rock Slide
+
 Slowbro Galar @ Quick Claw
 Level: 38
 Ability: Quick Draw
@@ -5897,16 +5907,6 @@ Nature: Hardy
 - Zen Headbutt
 - Shell Side Arm
 - Muddy Water
-
-Venusaur
-Level: 38
-Ability: Thick Fat
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-Nature: Hardy
-- Giga Drain
-- Sleep Powder
-- Sludge Bomb
-- Acid Spray
 
 Incineroar
 Level: 39
@@ -13085,15 +13085,15 @@ Nature: Hardy
 - Mirror Coat
 - Icy Wind
 
-Froslass
+Avalugg
 Level: 35
-Ability: Snow Cloak
+Ability: Sturdy
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Nature: Hardy
-- Ominous Wind
-- Freeze Dry
-- Destiny Bond
-- Weather Ball
+- Body Press
+- Crunch
+- Avalanche
+- Iron Defense
 
 Frosmoth @ Occa Berry
 Level: 35
@@ -13277,14 +13277,15 @@ Nature: Hardy
 - Shadow Ball
 - Will O Wisp
 
-Glalie @ Sitrus Berry
+Froslass @ Brightpowder
 Level: 37
+Ability: Snow Cloak
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-Nature: Hardy
+Nature: Modest
 - Blizzard
-- Head Smash
-- Earthquake
-- Crunch
+- Thunderbolt
+- Ominous Wind
+- Petal Dance
 
 === TRAINER_TIANA ===
 Name: TIANA
