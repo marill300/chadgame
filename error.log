@@ -1,0 +1,2 @@
+make: *** No rule to make target 'data/maps/LilycoveCity_PokemonCenter_2F/scripts.inc', needed by 'generated'.  Stop.
+Makefile:311: *** Errors occurred while generating map-related sources. See error messages above for more details.  Stop.
